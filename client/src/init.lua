@@ -1,10 +1,10 @@
---导入全局模块
+--碌录脠毛脠芦戮脰脛拢驴茅
 import (".app.models.AppDF")
 import (".model.base.Command")
 import (".view.component.Toast")
 
 
---cc基础视图类
+--cc禄霉麓隆脢脫脥录脌脿   hjhhk
 if (nil ~= cc) then
 	cc.BaseNode = import(".view.base.BaseNode")
 	cc.BaseLayer = import(".view.base.BaseLayer")
