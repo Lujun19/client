@@ -1,0 +1,97 @@
+
+lkpy.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 30
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 742, 171
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 222, 121
+  size: 191, 127
+  orig: 191, 127
+  offset: 0, 0
+  index: -1
+l-f
+  rotate: false
+  xy: 523, 151
+  size: 109, 97
+  orig: 109, 97
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 634, 135
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+r-f
+  rotate: false
+  xy: 289, 2
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 222, 14
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 415, 132
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 634, 185
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 833, 190
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 925, 192
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 222, 58
+  size: 172, 61
+  orig: 172, 61
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 705, 147
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+pdk.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 44
+  size: 220, 210
+  orig: 220, 210
+  offset: 0, 0
+  index: -1
+fk
+  rotate: false
+  xy: 362, 47
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+ht
+  rotate: false
+  xy: 303, 38
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+hx
+  rotate: true
+  xy: 2, 5
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+mh
+  rotate: false
+  xy: 303, 2
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+pk
+  rotate: false
+  xy: 224, 92
+  size: 218, 162
+  orig: 218, 162
+  offset: 0, 0
+  index: -1
+sg
+  rotate: false
+  xy: 224, 20
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 444, 117
+  size: 137, 61
+  orig: 137, 61
+  offset: 0, 0
+  index: -1

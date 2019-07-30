@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>logon_renwu{B4745A1F-9171-4784-951A-183552F7D9AA}.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{335,672}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{335,672}}</string>
+                <key>sourceSize</key>
+                <string>{335,672}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>logon_platform_default.png</string>
+            <key>size</key>
+            <string>{512,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c509658dd5638faed349e772fe4668f1:1/1$</string>
+            <key>textureFileName</key>
+            <string>logon_platform_default.png</string>
+        </dict>
+    </dict>
+</plist>
