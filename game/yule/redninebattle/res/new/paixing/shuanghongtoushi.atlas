@@ -1,0 +1,48 @@
+
+shuanghongtoushi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gou2
+  rotate: false
+  xy: 422, 125
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+gou_1
+  rotate: false
+  xy: 2, 2
+  size: 206, 112
+  orig: 206, 112
+  offset: 0, 0
+  index: -1
+gou_2
+  rotate: false
+  xy: 2, 116
+  size: 244, 134
+  orig: 244, 134
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 248, 105
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+xin1
+  rotate: false
+  xy: 335, 105
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 248, 183
+  size: 232, 67
+  orig: 232, 67
+  offset: 0, 0
+  index: -1

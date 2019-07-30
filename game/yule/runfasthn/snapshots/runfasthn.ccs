@@ -1,0 +1,86 @@
+<Solution>
+  <PropertyGroup Name="runfasthn" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="game">
+          <PlistImageFolder Image="gameLayer.png" PListFile="gameLayer.plist" Name=".gameLayer_PList.Dir">
+            <PlistImageFile Name="Animate_warn_1.png" Key="Animate_warn_1.png" />
+            <PlistImageFile Name="Animate_warn_2.png" Key="Animate_warn_2.png" />
+            <PlistImageFile Name="Animate_warn_3.png" Key="Animate_warn_3.png" />
+            <PlistImageFile Name="Animate_warn_4.png" Key="Animate_warn_4.png" />
+            <PlistImageFile Name="bt_exitSetLayer_0.png" Key="bt_exitSetLayer_0.png" />
+            <PlistImageFile Name="bt_exitSetLayer_1.png" Key="bt_exitSetLayer_1.png" />
+            <PlistImageFile Name="bt_help_runFast_0.png" Key="bt_help_runFast_0.png" />
+            <PlistImageFile Name="bt_help_runFast_1.png" Key="bt_help_runFast_1.png" />
+            <PlistImageFile Name="bt_off_runFast.png" Key="bt_off_runFast.png" />
+            <PlistImageFile Name="bt_on_runFast.png" Key="bt_on_runFast.png" />
+            <PlistImageFile Name="bt_set_runFast_0.png" Key="bt_set_runFast_0.png" />
+            <PlistImageFile Name="bt_set_runFast_1.png" Key="bt_set_runFast_1.png" />
+            <PlistImageFile Name="Button_chat_0.png" Key="Button_chat_0.png" />
+            <PlistImageFile Name="Button_chat_1.png" Key="Button_chat_1.png" />
+            <PlistImageFile Name="Button_exitGame_0.png" Key="Button_exitGame_0.png" />
+            <PlistImageFile Name="Button_exitGame_1.png" Key="Button_exitGame_1.png" />
+            <PlistImageFile Name="Button_outCard_0.png" Key="Button_outCard_0.png" />
+            <PlistImageFile Name="Button_outCard_1.png" Key="Button_outCard_1.png" />
+            <PlistImageFile Name="Button_outNone_0.png" Key="Button_outNone_0.png" />
+            <PlistImageFile Name="Button_outNone_1.png" Key="Button_outNone_1.png" />
+            <PlistImageFile Name="Button_prompt_0.png" Key="Button_prompt_0.png" />
+            <PlistImageFile Name="Button_prompt_1.png" Key="Button_prompt_1.png" />
+            <PlistImageFile Name="Button_reelect_0.png" Key="Button_reelect_0.png" />
+            <PlistImageFile Name="Button_reelect_1.png" Key="Button_reelect_1.png" />
+            <PlistImageFile Name="Button_start_0.png" Key="Button_start_0.png" />
+            <PlistImageFile Name="Button_start_1.png" Key="Button_start_1.png" />
+            <PlistImageFile Name="Button_trustee_0.png" Key="Button_trustee_0.png" />
+            <PlistImageFile Name="Button_trustee_1.png" Key="Button_trustee_1.png" />
+            <PlistImageFile Name="CheckBox_soundOff_0.png" Key="CheckBox_soundOff_0.png" />
+            <PlistImageFile Name="CheckBox_soundOff_1.png" Key="CheckBox_soundOff_1.png" />
+            <PlistImageFile Name="Image_chatBubble.png" Key="Image_chatBubble.png" />
+            <PlistImageFile Name="sp_effect.png" Key="sp_effect.png" />
+            <PlistImageFile Name="sp_help.png" Key="sp_help.png" />
+            <PlistImageFile Name="sp_music.png" Key="sp_music.png" />
+            <PlistImageFile Name="Sprite_bigTrustee.png" Key="Sprite_bigTrustee.png" />
+            <PlistImageFile Name="Sprite_clock.png" Key="Sprite_clock.png" />
+            <PlistImageFile Name="Sprite_firstPlayer.png" Key="Sprite_firstPlayer.png" />
+            <PlistImageFile Name="sprite_ready.png" Key="sprite_ready.png" />
+            <PlistImageFile Name="Sprite_runfasthn_frame.png" Key="Sprite_runfasthn_frame.png" />
+            <PlistImageFile Name="Sprite_scoreBg.png" Key="Sprite_scoreBg.png" />
+            <PlistImageFile Name="Sprite_scoreFlag.png" Key="Sprite_scoreFlag.png" />
+            <PlistImageFile Name="Sprite_timesFlag.png" Key="Sprite_timesFlag.png" />
+            <PlistImageFile Name="Sprite_topBg.png" Key="Sprite_topBg.png" />
+            <PlistImageFile Name="Sprite_trustee.png" Key="Sprite_trustee.png" />
+          </PlistImageFolder>
+          <Project Name="GameScene.csd" Type="Scene" />
+          <Image Name="Iv_DiZhu.png" />
+          <Image Name="num_multiple.png" />
+          <Image Name="num_time.png" />
+          <Project Name="Player.csd" Type="Scene" />
+          <Project Name="SetLayer.csd" Type="Scene" />
+          <Image Name="sp_setRunFast_bg.png" />
+          <Image Name="Sprite_runFastBg.png" />
+        </Folder>
+        <Folder Name="result">
+          <PlistImageFolder Image="resultLayer.png" PListFile="resultLayer.plist" Name=".resultLayer_PList.Dir">
+            <PlistImageFile Name="Button_continue_0.png" Key="Button_continue_0.png" />
+            <PlistImageFile Name="Button_continue_1.png" Key="Button_continue_1.png" />
+            <PlistImageFile Name="Button_exitResult_0.png" Key="Button_exitResult_0.png" />
+            <PlistImageFile Name="Button_exitResult_1.png" Key="Button_exitResult_1.png" />
+            <PlistImageFile Name="Sprite_faceBg_1.png" Key="Sprite_faceBg_1.png" />
+            <PlistImageFile Name="Sprite_faceBg_2.png" Key="Sprite_faceBg_2.png" />
+            <PlistImageFile Name="Sprite_resultBg_lose.png" Key="Sprite_resultBg_lose.png" />
+            <PlistImageFile Name="Sprite_resultBg_win.png" Key="Sprite_resultBg_win.png" />
+            <PlistImageFile Name="Sprite_scoreFlag_big.png" Key="Sprite_scoreFlag_big.png" />
+            <PlistImageFile Name="Sprite_userBg_lose.png" Key="Sprite_userBg_lose.png" />
+            <PlistImageFile Name="Sprite_userBg_win.png" Key="Sprite_userBg_win.png" />
+            <PlistImageFile Name="Sprite_winnerFlag.png" Key="Sprite_winnerFlag.png" />
+          </PlistImageFolder>
+          <Project Name="ResultLayer.csd" Type="Scene" />
+          <Project Name="resultUser.csd" Type="Scene" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

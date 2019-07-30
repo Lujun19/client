@@ -1,0 +1,153 @@
+
+shuangchangshan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 188
+  size: 352, 66
+  orig: 352, 66
+  offset: 0, 0
+  index: -1
+gou2
+  rotate: true
+  xy: 256, 15
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+gou_1
+  rotate: false
+  xy: 356, 142
+  size: 206, 112
+  orig: 206, 112
+  offset: 0, 0
+  index: -1
+gou_2
+  rotate: false
+  xy: 2, 74
+  size: 244, 112
+  orig: 244, 112
+  offset: 0, 0
+  index: -1
+yf_1
+  rotate: false
+  xy: 314, 2
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+yf_1_1
+  rotate: true
+  xy: 314, 29
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+yf_2
+  rotate: true
+  xy: 564, 119
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+yf_2_1
+  rotate: true
+  xy: 648, 187
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+yf_3
+  rotate: true
+  xy: 684, 161
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+yf_3_1
+  rotate: true
+  xy: 248, 74
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+yf_4
+  rotate: false
+  xy: 822, 188
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+yf_4_1
+  rotate: false
+  xy: 564, 177
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+yifu_1
+  rotate: false
+  xy: 648, 161
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+yifu_1_1
+  rotate: true
+  xy: 970, 191
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+yifu_2
+  rotate: true
+  xy: 179, 15
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+yifu_2_1
+  rotate: true
+  xy: 735, 187
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+yifu_3
+  rotate: true
+  xy: 718, 162
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+yifu_3_1
+  rotate: true
+  xy: 292, 74
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+yifu_4
+  rotate: false
+  xy: 896, 188
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+yifu_4_1
+  rotate: false
+  xy: 248, 109
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 6
+  size: 175, 66
+  orig: 175, 66
+  offset: 0, 0
+  index: -1

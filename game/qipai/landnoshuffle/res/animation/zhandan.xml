@@ -1,0 +1,125 @@
+<skeleton name="zhandan" frameRate="12" version="2.2">
+  <armatures>
+    <armature name="zahdandonghua">
+      <b name="zdtc3" x="-255" y="153" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="zdxz1" pX="120" pY="90"/>
+        <d name="adl2" pX="200" pY="200"/>
+        <d name="adl3" pX="200" pY="200"/>
+        <d name="adl4" pX="200" pY="200"/>
+        <d name="adl5" pX="200" pY="200"/>
+        <d name="adl6" pX="200" pY="200"/>
+        <d name="adl7" pX="200" pY="200"/>
+        <d name="adl8" pX="200" pY="200"/>
+        <d name="adl9" pX="200" pY="200"/>
+        <d name="adl10" pX="200" pY="200"/>
+      </b>
+      <b name="zdtc2" x="0.35" y="73" kX="0" kY="0" cX="0.2" cY="0.2" pX="0" pY="0" z="1">
+        <d name="zdwz1" pX="74.5" pY="39"/>
+      </b>
+    </armature>
+    <armature name="wangzhadonghua">
+      <b name="wztc4" x="2.35" y="3.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="adl2" pX="200" pY="200"/>
+        <d name="adl3" pX="200" pY="200"/>
+        <d name="adl4" pX="200" pY="200"/>
+        <d name="adl5" pX="200" pY="200"/>
+        <d name="adl6" pX="200" pY="200"/>
+        <d name="adl7" pX="200" pY="200"/>
+        <d name="adl8" pX="200" pY="200"/>
+        <d name="adl9" pX="200" pY="200"/>
+        <d name="adl10" pX="200" pY="200"/>
+      </b>
+      <b name="wztc3" x="1.35" y="53.35" kX="0" kY="0" cX="0.4" cY="0.4" pX="0" pY="0" z="0">
+        <d name="hj1" pX="80" pY="130"/>
+        <d name="hj2" pX="80" pY="130"/>
+      </b>
+      <b name="wztc2" x="4.35" y="70" kX="0" kY="0" cX="0.2" cY="0.2" pX="0" pY="0" z="1">
+        <d name="wzwz1" pX="74.5" pY="39"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="zahdandonghua">
+      <mov name="play" dr="18" to="6" drTW="18" lp="0" twE="NaN">
+        <b name="zdtc3" sc="1" dl="0">
+          <f x="-255" y="153" cocos2d_x="-255" cocos2d_y="153" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-158" y="17" cocos2d_x="-158" cocos2d_y="17" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-37.35" y="8.15" cocos2d_x="-37.35" cocos2d_y="8.15" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="2.35" y="3.4" cocos2d_x="2.35" cocos2d_y="3.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="7" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" dr="1"/>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="zdtc2" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="0.35" y="73" cocos2d_x="0.35" cocos2d_y="73" kX="0" kY="0" cX="0.2" cY="0.2" pX="0" pY="0" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.35" y="73" cocos2d_x="0.35" cocos2d_y="73" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="0.35" y="73" cocos2d_x="0.35" cocos2d_y="73" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="0.35" y="73" cocos2d_x="0.35" cocos2d_y="73" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="wangzhadonghua">
+      <mov name="play" dr="18" to="6" drTW="18" lp="0" twE="NaN">
+        <b name="wztc4" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="2.35" y="3.4" cocos2d_x="2.35" cocos2d_y="3.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="7" dr="1"/>
+          <f x="0.85" y="0.4" cocos2d_x="0.85" cocos2d_y="0.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="wztc3" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="1.35" y="53.35" cocos2d_x="1.35" cocos2d_y="53.35" kX="0" kY="0" cX="0.4" cY="0.4" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="1.35" y="-206.65" cocos2d_x="1.35" cocos2d_y="-206.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.35" y="-204.6" cocos2d_x="0.35" cocos2d_y="-204.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="0" dr="3"/>
+          <f x="0.35" y="-29.6" cocos2d_x="0.35" cocos2d_y="-29.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="0" dr="1"/>
+          <f dr="10" dI="-1"/>
+        </b>
+        <b name="wztc2" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="4.35" y="70" cocos2d_x="4.35" cocos2d_y="70" kX="0" kY="0" cX="0.2" cY="0.2" pX="0" pY="0" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.35" y="70" cocos2d_x="4.35" cocos2d_y="70" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="4.35" y="70" cocos2d_x="4.35" cocos2d_y="70" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="4.35" y="70" cocos2d_x="4.35" cocos2d_y="70" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="zhandan" width="2048" height="1024">
+    <SubTexture name="wzwz1" width="149" height="78" cocos2d_pX="74.5" cocos2d_pY="39" x="1760" y="660"/>
+    <SubTexture name="hj2" width="160" height="260" cocos2d_pX="80" cocos2d_pY="130" x="1840" y="400"/>
+    <SubTexture name="hj1" width="160" height="260" cocos2d_pX="80" cocos2d_pY="130" x="1600" y="580"/>
+    <SubTexture name="zdwz1" width="149" height="78" cocos2d_pX="74.5" cocos2d_pY="39" x="1760" y="738"/>
+    <SubTexture name="adl10" width="400" height="400" cocos2d_pX="200" cocos2d_pY="200" x="0" y="400"/>
+    <SubTexture name="adl9" width="400" height="400" cocos2d_pX="200" cocos2d_pY="200" x="1200" y="400"/>
+    <SubTexture name="adl8" width="400" height="400" cocos2d_pX="200" cocos2d_pY="200" x="400" y="0"/>
+    <SubTexture name="adl7" width="400" height="400" cocos2d_pX="200" cocos2d_pY="200" x="0" y="0"/>
+    <SubTexture name="adl6" width="400" height="400" cocos2d_pX="200" cocos2d_pY="200" x="400" y="400"/>
+    <SubTexture name="adl5" width="400" height="400" cocos2d_pX="200" cocos2d_pY="200" x="800" y="400"/>
+    <SubTexture name="adl4" width="400" height="400" cocos2d_pX="200" cocos2d_pY="200" x="1200" y="0"/>
+    <SubTexture name="adl3" width="400" height="400" cocos2d_pX="200" cocos2d_pY="200" x="1600" y="0"/>
+    <SubTexture name="adl2" width="400" height="400" cocos2d_pX="200" cocos2d_pY="200" x="800" y="0"/>
+    <SubTexture name="zdxz1" width="240" height="180" cocos2d_pX="120" cocos2d_pY="90" x="1600" y="400"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,55 @@
+
+shuangfutou.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+futou
+  rotate: false
+  xy: 481, 138
+  size: 121, 106
+  orig: 121, 106
+  offset: 0, 0
+  index: -1
+futou1
+  rotate: false
+  xy: 604, 138
+  size: 121, 106
+  orig: 121, 106
+  offset: 0, 0
+  index: -1
+gou
+  rotate: false
+  xy: 248, 32
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+gou1
+  rotate: false
+  xy: 248, 159
+  size: 231, 85
+  orig: 231, 85
+  offset: 0, 0
+  index: -1
+gou2
+  rotate: false
+  xy: 2, 96
+  size: 244, 148
+  orig: 244, 148
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 248, 90
+  size: 176, 67
+  orig: 176, 67
+  offset: 0, 0
+  index: -1
+zi_00000
+  rotate: false
+  xy: 2, 2
+  size: 244, 92
+  orig: 244, 92
+  offset: 0, 0
+  index: -1

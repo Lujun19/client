@@ -1,0 +1,28 @@
+<Project name="sparrowhz" designResolution="960x640" toolsVersion="10.0.2101.0">
+  <scenes activeScene="gameResult@nodeUser">
+    <scene>scene1</scene>
+    <scene>game@GameScene</scene>
+    <scene>game@Player</scene>
+    <scene>game@SetLayer</scene>
+    <scene>game@TrusteeCoverLayer</scene>
+    <scene>gameResult@GameResultLayer</scene>
+    <scene>gameResult@nodeUser</scene>
+  </scenes>
+  <copyAssetDirectly>1</copyAssetDirectly>
+  <default>
+    <font name="" size="28"/>
+  </default>
+  <sceneNumbers>1</sceneNumbers>
+  <ssheets/>
+  <assets/>
+  <publish-opts>
+    <auto-open-dir>0</auto-open-dir>
+    <encrypt-enabled>0</encrypt-enabled>
+    <encrypt-key/>
+    <publish-dir>E:\qqrongyao_my\ui\game\sparrowhz\snapshots</publish-dir>
+    <publish-type>1</publish-type>
+    <cleanup-dir>0</cleanup-dir>
+    <csloader-version>2.1.0.0</csloader-version>
+  </publish-opts>
+</Project>
+

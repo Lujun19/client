@@ -1,0 +1,238 @@
+{
+  "listdata": [
+    {
+      "path": "redninebattle/res/",
+      "name": "ApplyListItem.csb",
+      "md5": "3febe28fd67a75e5591896eec48c1570",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "ApplyListLayer.csb",
+      "md5": "efb41e8711826621761dc94625c2bc5b",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "BankLayer.csb",
+      "md5": "f03ae2b39ee2a92a608cfa1051ac172d",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "GameResult.csb",
+      "md5": "8581c1d04815e0288c18f9d00b0ee10a",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "GameScene.csb",
+      "md5": "794b736817ec0ae57e6036836ef02e8e",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/game_res/",
+      "name": "im_card.png",
+      "md5": "da7675d5e72e4a672dae7af4b61a3f10",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/game_res/",
+      "name": "im_game_bg.png",
+      "md5": "d117c2176b91304d76a05a575d219909",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/game_res/",
+      "name": "num_all_jetton_score.png",
+      "md5": "2476af9b7a1f9aaf227ce0c7dcd9433b",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/game_res/",
+      "name": "num_clock.png",
+      "md5": "25b81e3b790733fd36a862d79b735e9e",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/game_res/",
+      "name": "num_score_add.png",
+      "md5": "d3105fa527f45e8e1cdd1e30d3fdfa3d",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/game_res/",
+      "name": "num_score_plus.png",
+      "md5": "ca092f1083b26cb933871d26640609c6",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/game_res/",
+      "name": "num_self_jetton_score.png",
+      "md5": "0b03e5b0804e176492373ce6a6cc52c7",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/game_res/",
+      "name": "num_self_score.png",
+      "md5": "56e3aca2348b3c013cbdab9a5fbc2031",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "game_res.plist",
+      "md5": "3250a1ae49e3a2f7b24e2c2cbf96e1c7",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "game_res.png",
+      "md5": "18d507698cb1db5cde06c8179c85eb9f",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "LudanLayer.csb",
+      "md5": "4768c546f19cf29a95248b59bc3f1e86",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "PlayerListItem.csb",
+      "md5": "930448f08cd72a3fd2669e82f558f6b2",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/roomlist/",
+      "name": "icon_roomlist_0.png",
+      "md5": "16d7be253d875d09fef46fb25f4cecda",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/roomlist/",
+      "name": "icon_roomlist_1.png",
+      "md5": "16fb3b6b06bab9d679459accc312abf0",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/roomlist/",
+      "name": "icon_roomlist_2.png",
+      "md5": "41d0913ba6273be0f8a9e39ad8a49a2b",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "SettingLayer.csb",
+      "md5": "0dcb85d3b1d392ad8c1d816ebbc41476",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "SitRoleNode.csb",
+      "md5": "ee6ecf3e6adb85e98a11030d8a3bdeaf",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/res/",
+      "name": "UserListLayer.csb",
+      "md5": "be336876b54742b64a82a29002747d3e",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/models/",
+      "name": "CMD_Game.luac",
+      "md5": "dacc483ed5e2bcd487e414c3f0e970e1",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/models/",
+      "name": "GameFrame.luac",
+      "md5": "ddef36c424224a050c41da406a107eb5",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/models/",
+      "name": "GameLogic.luac",
+      "md5": "aeaf25ec8f2e7e3eb734ee69fe65bb46",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/",
+      "name": "GameLayer.luac",
+      "md5": "70e97791fe91cde454d823904f73781a",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/",
+      "name": "GameRoomListLayer.luac",
+      "md5": "dbc84f514b4a9adfa2a77757a6d41fe0",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "ApplyListItem.luac",
+      "md5": "ebd4d35625b0f8b7b9dddfabad5ce5b2",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "ApplyListLayer.luac",
+      "md5": "997b91c2eec1222f0925331713382f57",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "CardSprite.luac",
+      "md5": "95020da52a04e81ada2c1297aeca9324",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "GameRecordLayer.luac",
+      "md5": "452e9a03232f7bf4e29f85f6d5819206",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "GameResultLayer.luac",
+      "md5": "0b0f5bfd8d6c1ecdfe9d1ea52e0a88af",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "GameViewLayer.luac",
+      "md5": "8c9fe116f740a51db9b1791834aecec7",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "SettingLayer.luac",
+      "md5": "85302f3d5e5d66661b9dc3fd097d645c",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "SitRoleNode.luac",
+      "md5": "818071debc8d846dfe4d1c046371e0dc",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "UserListItem.luac",
+      "md5": "2fd9832df3b14ec472937987d7dd4f37",
+      "allcount": 0
+    },
+    {
+      "path": "redninebattle/src/views/layer/",
+      "name": "UserListLayer.luac",
+      "md5": "f24f22d872ad40143053f69af02b4a7c",
+      "allcount": 0
+    },
+    {
+      "path": null,
+      "name": null,
+      "md5": null,
+      "allcount": 38
+    }
+  ]
+}

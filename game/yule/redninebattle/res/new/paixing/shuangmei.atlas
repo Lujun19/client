@@ -1,0 +1,90 @@
+
+shuangmei.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gou1
+  rotate: false
+  xy: 153, 31
+  size: 154, 95
+  orig: 154, 95
+  offset: 0, 0
+  index: -1
+gou2
+  rotate: false
+  xy: 430, 91
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+huai1
+  rotate: false
+  xy: 309, 32
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+huai2
+  rotate: false
+  xy: 334, 41
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+huai3
+  rotate: true
+  xy: 153, 16
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+huai4
+  rotate: false
+  xy: 468, 104
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+huai6
+  rotate: false
+  xy: 351, 42
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+huai7
+  rotate: true
+  xy: 153, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+huai8
+  rotate: false
+  xy: 430, 65
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+huai9
+  rotate: false
+  xy: 489, 106
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+huaizi
+  rotate: false
+  xy: 2, 15
+  size: 149, 111
+  orig: 149, 111
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 309, 59
+  size: 119, 67
+  orig: 119, 67
+  offset: 0, 0
+  index: -1

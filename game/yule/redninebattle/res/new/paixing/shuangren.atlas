@@ -1,0 +1,132 @@
+
+shuangren.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gou
+  rotate: false
+  xy: 439, 2
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+guan
+  rotate: false
+  xy: 227, 50
+  size: 210, 76
+  orig: 210, 76
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 559, 75
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+hua10
+  rotate: false
+  xy: 275, 2
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+hua11
+  rotate: false
+  xy: 649, 83
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+hua12
+  rotate: true
+  xy: 406, 19
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 691, 89
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 227, 2
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: false
+  xy: 498, 15
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+hua5
+  rotate: false
+  xy: 363, 6
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+hua6
+  rotate: false
+  xy: 773, 90
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+hua7
+  rotate: false
+  xy: 737, 90
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+hua8
+  rotate: false
+  xy: 321, 4
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+hua9
+  rotate: false
+  xy: 606, 83
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+huaban6
+  rotate: false
+  xy: 808, 102
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+huaban7
+  rotate: true
+  xy: 2, 6
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+shuiz
+  rotate: false
+  xy: 2, 26
+  size: 223, 100
+  orig: 223, 100
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 439, 60
+  size: 118, 66
+  orig: 118, 66
+  offset: 0, 0
+  index: -1

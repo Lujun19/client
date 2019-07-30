@@ -1,0 +1,48 @@
+
+shuangbandeng.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b2
+  rotate: false
+  xy: 231, 2
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+gou
+  rotate: false
+  xy: 311, 11
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+gou1
+  rotate: false
+  xy: 248, 138
+  size: 206, 111
+  orig: 206, 111
+  offset: 0, 0
+  index: -1
+gou2
+  rotate: false
+  xy: 2, 101
+  size: 244, 148
+  orig: 244, 148
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 248, 69
+  size: 175, 67
+  orig: 175, 67
+  offset: 0, 0
+  index: -1
+zi_00000
+  rotate: false
+  xy: 2, 12
+  size: 227, 87
+  orig: 227, 87
+  offset: 0, 0
+  index: -1

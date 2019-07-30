@@ -1,0 +1,30 @@
+<Project name="runfasthn" designResolution="960x640" toolsVersion="10.0.2101.0">
+  <scenes activeScene="result@resultUser">
+    <scene>GameScene</scene>
+    <scene>game@Player</scene>
+    <scene>game@SetLayer</scene>
+    <scene>result@ResultLayer</scene>
+    <scene>result@resultUser</scene>
+  </scenes>
+  <copyAssetDirectly>1</copyAssetDirectly>
+  <default>
+    <font name="" size="28"/>
+  </default>
+  <sceneNumbers>1</sceneNumbers>
+  <ssheets/>
+  <assets>
+    <item path="auto\default\sprite.png" dflag="131078"/>
+    <item path="auto\default\labelatlas.png" dflag="131078"/>
+  </assets>
+  <publish-opts>
+    <auto-open-dir>0</auto-open-dir>
+    <encrypt-enabled>0</encrypt-enabled>
+    <encrypt-key/>
+    <publish-dir>E:\qqrongyao_my\ui\game\runfasthn\snapshots</publish-dir>
+    <publish-type>1</publish-type>
+    <cleanup-dir>0</cleanup-dir>
+    <csloader-version>2.1.0.0</csloader-version>
+  </publish-opts>
+  <objectCounters/>
+</Project>
+

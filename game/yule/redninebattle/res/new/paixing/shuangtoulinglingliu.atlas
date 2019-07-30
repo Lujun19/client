@@ -1,0 +1,55 @@
+
+shuangtoulinglingliu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chun
+  rotate: false
+  xy: 875, 108
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+chun1
+  rotate: false
+  xy: 520, 38
+  size: 138, 134
+  orig: 138, 134
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 312, 181
+  size: 326, 61
+  orig: 326, 61
+  offset: 0, 0
+  index: -1
+gou1
+  rotate: false
+  xy: 312, 68
+  size: 206, 111
+  orig: 206, 111
+  offset: 0, 0
+  index: -1
+gou2
+  rotate: false
+  xy: 2, 2
+  size: 244, 150
+  orig: 244, 150
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 640, 174
+  size: 233, 68
+  orig: 233, 68
+  offset: 0, 0
+  index: -1
+zi_00000
+  rotate: false
+  xy: 2, 154
+  size: 308, 88
+  orig: 308, 88
+  offset: 0, 0
+  index: -1

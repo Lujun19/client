@@ -1,0 +1,18 @@
+[name:游戏中文名, des:md5路径(用于生成md5版本文件), ori:源路径(用于拷贝), zipped:是否添加到压缩列表， folder:目录(用于压缩指定游戏)， primode:是否有私人房]
+name=斗地主,des=client\ciphercode\game\qipai\land,ori=game\qipai\land,folder=land,zipped=0,primode=1
+name=四人牛牛,des=client\ciphercode\game\yule\oxnew,ori=game\yule\oxnew,folder=oxnew,zipped=0,primode=1
+name=通比牛牛,des=client\ciphercode\game\yule\oxsixex,ori=game\yule\oxsixex,folder=oxnew,zipped=0,primode=1
+name=看牌牛牛,des=client\ciphercode\game\yule\kpnew,ori=game\yule\kpnew,folder=oxnew,zipped=0,primode=1
+name=百家乐,des=client\ciphercode\game\xiuxian\baccaratnew,ori=game\xiuxian\baccaratnew,folder=baccaratnew,zipped=0,primode=1
+name=百人牛牛,des=client\ciphercode\game\yule\oxbattle,ori=game\yule\oxbattle,folder=oxbattle,zipped=0,primode=1
+name=扎金花,des=client\ciphercode\game\yule\zhajinhua,ori=game\yule\zhajinhua,folder=zhajinhua,zipped=0,primode=1
+name=中发白,des=client\ciphercode\game\xiuxian\zhongfabai,ori=game\xiuxian\zhongfabai,folder=zhongfabai,zipped=0,primode=1
+name=不洗牌斗地主,des=client\ciphercode\game\qipai\landnoshuffle,ori=game\qipai\landnoshuffle,folder=landnoshuffle,zipped=0,primode=1
+name=红黑大战,des=client\ciphercode\game\qipai\redblack,ori=game\qipai\redblack,folder=redblack,zipped=0,primode=1
+name=龙凤斗,des=client\ciphercode\game\xiuxian\longfengdou,ori=game\xiuxian\longfengdou,folder=longfengdou,zipped=0,primode=1
+name=麻将1,des=client\ciphercode\game\xiuxian\sparrowhz_1,ori=game\xiuxian\sparrowhz_1,folder=sparrowhz_1,zipped=0,primode=1
+name=麻将2,des=client\ciphercode\game\xiuxian\sparrowhz_2,ori=game\xiuxian\sparrowhz_2,folder=sparrowhz_2,zipped=0,primode=1
+name=三公,des=client\ciphercode\game\jd\sangong,ori=game\jd\sangong,folder=sangong,zipped=0,primode=1
+name=百人牌九,des=client\ciphercode\game\yule\redninebattle,ori=game\yule\redninebattle,folder=redninebattle,zipped=0,primode=1
+name=豪车俱乐部,des=client\ciphercode\game\yule\luxurycar,ori=game\yule\luxurycar,folder=luxurycar,zipped=0,primode=1
+name=李逵劈鱼,des=client\ciphercode\game\yule\xlkpy,ori=game\yule\xlkpy,folder=xlkpy,zipped=0,primode=1
