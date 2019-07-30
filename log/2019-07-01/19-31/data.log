@@ -1,0 +1,197 @@
+[
+    {
+        "logtime": "2019/07/01 19:31:14",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/01 19:31:14",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/01 19:31:14",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:14",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/01 19:31:14",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 19:31:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:16",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 19:31:16",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 19:31:16",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/01 19:31:16",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/01 19:31:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:16",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/01 19:31:16",
+        "logdata": "action=GetMobileShareConfig&userid=119947&time=1561980676&signature=06FE9CEFB1091FC0A24844A180AD70DA"
+    },
+    {
+        "logtime": "2019/07/01 19:31:17",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:17",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/01 19:31:17",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 19:31:22",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/01 19:31:22",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/01 19:31:22",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.shuiguolaba.",
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/01 19:31:22",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/01 19:31:22",
+        "logdata": 406
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 19:31:24",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 19:31:25",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.shuiguolaba.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/01 19:31:25",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/01 19:31:25",
+        "logdata": "xiuxian/shuiguolaba/"
+    },
+    {
+        "logtime": "2019/07/01 19:31:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:316: [string \".\\client/src/controller/command/LoadViewComma...\"]:105: [string \".\\client/src/controller/command/LoadViewComma...\"]:325: [string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:250: attempt to index local 'Button_back' (a nil value)\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:316: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:77: in function 'enterViewFinished'\n\t[string \".\\client/src/app/views/layer/other/PopGameWai...\"]:23: in function <[string \".\\client/src/app/views/layer/other/PopGameWai...\"]:22>"
+    }
+]

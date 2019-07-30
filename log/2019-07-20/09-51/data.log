@@ -1,0 +1,30 @@
+[
+    {
+        "logtime": "2019/07/20 09:51:57",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/20 09:51:57",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/20 09:51:57",
+        "logdata": "[string \".\\game/yule/sparrowxz/src/views/layer/GameVie...\"]:556: attempt to index a nil value\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/20 09:51:57",
+        "logdata": "[string \".\\game/yule/sparrowxz/src/views/layer/GameVie...\"]:559: attempt to index a nil value\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/20 09:51:57",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/20 09:51:57",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/20 09:51:57",
+        "logdata": ""
+    }
+]

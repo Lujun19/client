@@ -1,0 +1,36 @@
+[
+    {
+        "logtime": "2019/07/30 14:33:11",
+        "logdata": "[string \".\\client/src/app/controllers/ClientUpdate.lua\"]:71: attempt to concatenate local 'oldpath' (a userdata value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/30 14:33:19",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/30 14:33:19",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/30 14:33:19",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/30 14:33:19",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/30 14:33:19",
+        "logdata": 202
+    }
+]

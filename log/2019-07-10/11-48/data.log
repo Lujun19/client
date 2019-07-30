@@ -1,0 +1,158 @@
+[
+    {
+        "logtime": "2019/07/10 11:48:19",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/10 11:48:19",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 11:48:20",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:48:20",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/10 11:48:20",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/10 11:48:22",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/10 11:48:22",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 11:48:22",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:48:22",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/10 11:48:22",
+        "logdata": "action=GetMobileShareConfig&userid=119791&time=1562730502&signature=C6DE6D4FE42268912CA6D6C187F6106D"
+    },
+    {
+        "logtime": "2019/07/10 11:48:23",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:48:23",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/10 11:48:23",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/10 11:48:30",
+        "logdata": "[string \".\\client/src/plaza/views/ClientScene.lua\"]:3104: attempt to index field 'WebView' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:167: in function <[string \".\\client/src/plaza/views/ClientScene.lua\"]:165>"
+    },
+    {
+        "logtime": "2019/07/10 11:48:34",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/10 11:48:34",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 11:48:35",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:48:35",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/10 11:48:35",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/10 11:48:36",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/10 11:48:36",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 11:48:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:48:36",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/10 11:48:36",
+        "logdata": "action=GetMobileShareConfig&userid=119907&time=1562730516&signature=8BCF95907EEF1132AE891FA7F6659960"
+    },
+    {
+        "logtime": "2019/07/10 11:48:38",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:48:38",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/10 11:48:38",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/10 11:48:41",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/07/10 11:48:42",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/10 11:48:42",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/10 11:48:42",
+        "logdata": "exitViewUserInfo"
+    },
+    {
+        "logtime": "2019/07/10 11:48:49",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/07/10 11:48:50",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/10 11:48:50",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/10 11:48:50",
+        "logdata": "exitViewUserInfo"
+    },
+    {
+        "logtime": "2019/07/10 11:48:53",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/07/10 11:48:54",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/10 11:48:54",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/10 11:48:54",
+        "logdata": "exitViewUserInfo"
+    }
+]

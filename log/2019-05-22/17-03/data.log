@@ -1,0 +1,93 @@
+[
+    {
+        "logtime": "2019/05/22 17:03:07",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 17:03:07",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 17:03:07",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowhz/",
+            "_KindID": "389",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowhz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:03:07",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 17:03:07",
+        "logdata": 389
+    },
+    {
+        "logtime": "2019/05/22 17:03:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:03:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 17:03:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:03:09",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowhz/",
+            "_KindID": "389",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.sparrowhz.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:03:09",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/05/22 17:03:09",
+        "logdata": "yule/sparrowhz/"
+    },
+    {
+        "logtime": "2019/05/22 17:03:17",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:03:17",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 17:03:17",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/05/22 17:03:17",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:03:17",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 17:03:17",
+        "logdata": "action=getagentpay"
+    }
+]

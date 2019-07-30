@@ -1,0 +1,425 @@
+[
+    {
+        "logtime": "2019/05/17 16:38:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:02",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:38:02",
+        "logdata": "action=LotteryStart&userid=119907&time=1558082282&signature=91821CC06A5C4F14C797C65C62449987"
+    },
+    {
+        "logtime": "2019/05/17 16:38:13",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:13",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:38:13",
+        "logdata": "action=LotteryStart&userid=119907&time=1558082293&signature=1FD21B5C92A13FDF0CA552D63A637C06"
+    },
+    {
+        "logtime": "2019/05/17 16:38:26",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/17 16:38:26",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 16:38:26",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:26",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 16:38:26",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 16:38:28",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:28",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 16:38:28",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 16:38:28",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 16:38:28",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 16:38:28",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:28",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:38:28",
+        "logdata": "action=GetMobileShareConfig&userid=119921&time=1558082308&signature=857542EC26F7CDE5129DF60732200054"
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:38:31",
+        "logdata": "action=GetMobileShareConfig&userid=119914&time=1558082311&signature=C1A03AAB5706CB2AD13704661FD7114F"
+    },
+    {
+        "logtime": "2019/05/17 16:38:33",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:33",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 16:38:33",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 16:38:35",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:35",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:38:35",
+        "logdata": "action=LotteryConfig"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "action=LotteryUserInfo&userid=0&time=1558082316&signature=4867A892DF7DFC787E44F364AC7F5DA2"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:267: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:36",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:37",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 16:38:38",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:267: attempt to index local 'curRootView' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    }

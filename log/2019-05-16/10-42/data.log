@@ -1,0 +1,214 @@
+[
+    {
+        "logtime": "2019/05/16 10:42:13",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/16 10:42:13",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/16 10:42:14",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:14",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/16 10:42:14",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/16 10:42:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:16",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.107.65&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/16 10:42:16",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/16 10:42:16",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/16 10:42:16",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/16 10:42:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:16",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/16 10:42:16",
+        "logdata": "action=GetMobileShareConfig&userid=119902&time=1557974536&signature=D830107D70893DF4FBB8E5C298D6B912"
+    },
+    {
+        "logtime": "2019/05/16 10:42:19",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:19",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/16 10:42:19",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/16 10:42:22",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/05/16 10:42:24",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/05/16 10:42:24",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/05/16 10:42:24",
+        "logdata": "exitViewUserInfo"
+    },
+    {
+        "logtime": "2019/05/16 10:42:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:25",
+        "logdata": "http://www.fuannainc.top//WS/Account.ashx"
+    },
+    {
+        "logtime": "2019/05/16 10:42:25",
+        "logdata": "action=getchild&gameid=335247"
+    },
+    {
+        "logtime": "2019/05/16 10:42:28",
+        "logdata": "rto_earn_2url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:28",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Info.html?userid=119902&signature=F39B2F68542151BC1D5493DFC68E12B9&time=1557974548"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Info.html?userid=119902&signature=F39B2F68542151BC1D5493DFC68E12B9&time=1557974548",
+    {
+        "logtime": "2019/05/16 10:42:29",
+        "logdata": "rto_earn_3url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:29",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Describe.html"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Describe.html",
+    {
+        "logtime": "2019/05/16 10:42:30",
+        "logdata": "rto_earn_4url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:30",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Withdrawals.html?userid=119902&signature=589F3F4C7D8F4CBCF726E954C2689022&time=1557974550"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Withdrawals.html?userid=119902&signature=589F3F4C7D8F4CBCF726E954C2689022&time=1557974550",
+    {
+        "logtime": "2019/05/16 10:42:31",
+        "logdata": "rto_earn_3url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:31",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Describe.html"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Describe.html",
+    {
+        "logtime": "2019/05/16 10:42:31",
+        "logdata": "rto_earn_2url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:32",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Info.html?userid=119902&signature=D2DB23AEB1F706E8B056FA79138735DA&time=1557974551"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Info.html?userid=119902&signature=D2DB23AEB1F706E8B056FA79138735DA&time=1557974551",
+    {
+        "logtime": "2019/05/16 10:42:33",
+        "logdata": "rto_earn_2url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:33",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Info.html?userid=119902&signature=6739EE662627766381928B4EC63BA991&time=1557974553"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Info.html?userid=119902&signature=6739EE662627766381928B4EC63BA991&time=1557974553",
+    {
+        "logtime": "2019/05/16 10:42:35",
+        "logdata": "rto_earn_3url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:35",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Describe.html"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Describe.html",
+    {
+        "logtime": "2019/05/16 10:42:37",
+        "logdata": "rto_earn_4url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:37",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Withdrawals.html?userid=119902&signature=56FCC778D0AB2055DF4863D91CC39E71&time=1557974557"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Withdrawals.html?userid=119902&signature=56FCC778D0AB2055DF4863D91CC39E71&time=1557974557",
+    {
+        "logtime": "2019/05/16 10:42:37",
+        "logdata": "rto_earn_3url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:37",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Describe.html"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Describe.html",
+    {
+        "logtime": "2019/05/16 10:42:39",
+        "logdata": "rto_earn_2url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:39",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Info.html?userid=119902&signature=756051A8644C6D5A0627BEE5E0A0BC54&time=1557974559"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Info.html?userid=119902&signature=756051A8644C6D5A0627BEE5E0A0BC54&time=1557974559",
+    {
+        "logtime": "2019/05/16 10:42:39",
+        "logdata": "rto_earn_3url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:39",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Describe.html"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Describe.html",
+    {
+        "logtime": "2019/05/16 10:42:39",
+        "logdata": "rto_earn_4url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:39",
+        "logdata": "http://www.fuannainc.top//Mobile/Spread/Withdrawals.html?userid=119902&signature=756051A8644C6D5A0627BEE5E0A0BC54&time=1557974559"
+    },
+    "url=http://www.fuannainc.top//Mobile/Spread/Withdrawals.html?userid=119902&signature=756051A8644C6D5A0627BEE5E0A0BC54&time=1557974559",
+    {
+        "logtime": "2019/05/16 10:42:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 10:42:43",
+        "logdata": "http://www.fuannainc.top//WS/Account.ashx"
+    },
+    {
+        "logtime": "2019/05/16 10:42:43",
+        "logdata": "action=getchild&gameid=335247"
+    }
+]

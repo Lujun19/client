@@ -1,0 +1,135 @@
+[
+    {
+        "logtime": "2019/06/17 16:48:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/17 16:48:16",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.249.132.170&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/06/17 16:48:16",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/17 16:48:16",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/06/17 16:48:16",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/06/17 16:48:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/17 16:48:16",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/06/17 16:48:16",
+        "logdata": "action=GetMobileShareConfig&userid=119912&time=1560761296&signature=6BDFD305DB348D4505DDA243147ED100"
+    },
+    {
+        "logtime": "2019/06/17 16:48:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/17 16:48:18",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/06/17 16:48:18",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/17 16:48:47",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/06/17 16:48:47",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/06/17 16:48:47",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/thirteenx/",
+            "_KindID": "49",
+            "_Type": "qipai",
+            "_KindName": "qipai.thirteenx.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:48:47",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/06/17 16:48:47",
+        "logdata": 49
+    },
+    {
+        "logtime": "2019/06/17 16:48:51",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/06/17 16:48:51",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/06/17 16:48:51",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/redblack/",
+            "_KindID": "211",
+            "_Type": "qipai",
+            "_KindName": "qipai.redblack.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:48:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/17 16:48:52",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.249.132.170&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/06/17 16:48:52",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/17 16:48:52",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/redblack/",
+            "_KindID": "211",
+            "_Type": "qipai",
+            "nSitChair": 65535,
+            "_KindName": "qipai.redblack.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:48:52",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/06/17 16:48:52",
+        "logdata": "qipai/redblack/"
+    }
+]

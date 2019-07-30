@@ -1,0 +1,66 @@
+[
+    {
+        "logtime": "2019/07/03 09:56:01",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 09:56:01",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/03 09:56:01",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/03 09:56:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 09:56:37",
+        "logdata": "error loading module 'game.xiuxian.shuiguolaba.src.views.layer.GameViewLayer' from file '.\\game\\xiuxian\\shuiguolaba\\src\\views\\layer\\GameViewLayer.lua':\n\t...me\\xiuxian\\shuiguolaba\\src\\views\\layer\\GameViewLayer.lua:1753: 'end' expected (to close 'function' at line 935) near '<eof>'\nstack traceback:\n\t[C]: in function 'req'\n\t[string \".\\game/xiuxian/shuiguolaba/src/views/GameLaye...\"]:11: in main chunk\n\t[C]: in function 'require'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:114: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:619: in function 'LoadGameView'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:230: in function 'onSocketLogonFinish'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:156: in function 'onSocketLogonEvent'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:107: in function 'onSocketEvent'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:141: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:97: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:96>"
+    }
+]

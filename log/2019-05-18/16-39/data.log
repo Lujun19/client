@@ -1,0 +1,44 @@
+[
+    {
+        "logtime": "2019/05/18 16:39:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 16:39:02",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/18 16:39:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 16:39:47",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/18 16:39:47",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/18 16:39:47",
+        "logdata": {
+            "_ServerResVersion": 6,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/redninebattle/",
+            "_KindID": "109",
+            "_Type": "yule",
+            "_KindName": "yule.redninebattle.",
+            "_SortId": 12
+        }
+    },
+    {
+        "logtime": "2019/05/18 16:39:47",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/18 16:39:47",
+        "logdata": 109
+    }
+]

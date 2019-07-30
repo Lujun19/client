@@ -1,0 +1,78 @@
+[
+    {
+        "logtime": "2019/06/27 18:02:05",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/06/27 18:02:05",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/06/27 18:02:05",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/27 18:02:05",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/06/27 18:02:05",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/27 18:02:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/27 18:02:11",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.249.132.235&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/06/27 18:02:11",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/27 18:02:11",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/06/27 18:02:11",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/06/27 18:02:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/27 18:02:11",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/06/27 18:02:11",
+        "logdata": "action=GetMobileShareConfig&userid=119902&time=1561629731&signature=81CED57C2A3DB04858AEDF43202B24E1"
+    },
+    {
+        "logtime": "2019/06/27 18:02:13",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/27 18:02:13",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/06/27 18:02:13",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/27 18:02:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/27 18:02:18",
+        "logdata": "http://www.fuannainc.top//WS/Account.ashx"
+    },
+    {
+        "logtime": "2019/06/27 18:02:18",
+        "logdata": "action=getchild&gameid=335247"
+    }
+]

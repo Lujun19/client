@@ -1,0 +1,366 @@
+[
+    {
+        "logtime": "2019/07/09 15:20:01",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 15:20:01",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/09 15:20:01",
+        "logdata": "action=GetScoreInfo&userid=119888&time=1562656801&signature=A17A80A610A97D68C16344E078DCD2E3"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:04",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:08",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:232: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/09 15:20:08",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[string \".\\client/src/view/mediator/BankMediator.lua\"]:232: in function 'recvCallBack'\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:09",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:232: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/09 15:20:13",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/09 15:20:13",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 15:20:13",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 15:20:13",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/09 15:20:13",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/09 15:20:15",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/09 15:20:15",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 15:20:15",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 15:20:15",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/09 15:20:15",
+        "logdata": "action=GetMobileShareConfig&userid=119914&time=1562656815&signature=EEAEB0495CA083403F89A5098F6372CD"
+    },
+    {
+        "logtime": "2019/07/09 15:20:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 15:20:16",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/09 15:20:16",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:20",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 15:20:28",
+        "logdata": "double"
+    }
+]

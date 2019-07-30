@@ -1,0 +1,94 @@
+[
+    {
+        "logtime": "2019/07/05 10:44:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:44:42",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/05 10:44:42",
+        "logdata": "action=GetScoreInfo&userid=120188&time=1562294682&signature=12C43FE8C465AD19B7D768BA673580F9"
+    },
+    {
+        "logtime": "2019/07/05 10:44:49",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/05 10:44:49",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/05 10:44:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:44:50",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/05 10:44:50",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/05 10:44:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:44:52",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.49.18&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/05 10:44:52",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/05 10:44:52",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/05 10:44:52",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/05 10:44:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:44:52",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/05 10:44:52",
+        "logdata": "action=GetMobileShareConfig&userid=120188&time=1562294692&signature=F64BC5F3DCEDDB7D01F868AC3784DCE4"
+    },
+    {
+        "logtime": "2019/07/05 10:44:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:44:53",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/05 10:44:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/05 10:44:58",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/07/05 10:44:59",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/05 10:44:59",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/05 10:44:59",
+        "logdata": "exitViewUserInfo"
+    }
+]

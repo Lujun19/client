@@ -1,0 +1,122 @@
+[
+    {
+        "logtime": "2019/06/17 16:56:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/17 16:56:03",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.249.132.170&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/06/17 16:56:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/17 16:56:03",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.oxsixex.",
+            "nEnterRoomIndex": 4,
+            "nSitTable": 65535,
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:56:03",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/06/17 16:56:03",
+        "logdata": "yule/oxsixex/"
+    },
+    {
+        "logtime": "2019/06/17 16:56:17",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/06/17 16:56:32",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/06/17 16:56:32",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/06/17 16:56:32",
+        "logdata": "exitViewUserInfo"
+    },
+    {
+        "logtime": "2019/06/17 16:56:35",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/06/17 16:56:35",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/06/17 16:56:35",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/thirteenx/",
+            "_KindID": "49",
+            "_Type": "qipai",
+            "_KindName": "qipai.thirteenx.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:56:36",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/06/17 16:56:36",
+        "logdata": 49
+    },
+    {
+        "logtime": "2019/06/17 16:56:44",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/17 16:56:44",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.249.132.170&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/06/17 16:56:44",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/17 16:56:45",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/thirteenx/",
+            "_KindID": "49",
+            "_Type": "qipai",
+            "nSitChair": 65535,
+            "_KindName": "qipai.thirteenx.",
+            "nEnterRoomIndex": 2,
+            "nSitTable": 65535,
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:56:45",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/06/17 16:56:45",
+        "logdata": "qipai/thirteenx/"
+    }
+]

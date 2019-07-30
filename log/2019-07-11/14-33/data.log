@@ -1,0 +1,50 @@
+[
+    {
+        "logtime": "2019/07/11 14:33:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/11 14:33:04",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/11 14:33:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/11 14:33:04",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/11 14:33:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/11 14:33:04",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/11 14:33:04",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/11 14:33:04",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/11 14:33:05",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/11 14:33:05",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/11 14:33:05",
+        "logdata": "action=gettixianrecord&userid=119845&signature=4A4059CA9062F0C4AA6A62640A26D8CB&time=1562826785&number=20&page=1"
+    },
+    {
+        "logtime": "2019/07/11 14:33:08",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    }
+]

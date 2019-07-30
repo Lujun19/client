@@ -1,0 +1,242 @@
+[
+    {
+        "logtime": "2019/07/20 15:36:00",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:01",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:02",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:03",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:04",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:05",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:06",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:07",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:08",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:09",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:10",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:11",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:12",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:13",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:14",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:15",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:16",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:17",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:18",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:19",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:20",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:21",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:22",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:23",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:24",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:25",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:26",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:27",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:28",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:29",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:30",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:31",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:32",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:33",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:34",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:35",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:36",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:37",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:38",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:39",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:40",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:41",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:42",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:43",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:44",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:45",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:46",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:47",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:48",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:49",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:50",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:51",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:52",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:53",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:54",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:55",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:56",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:57",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:58",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/20 15:36:59",
+        "logdata": "[string \".\\client/src/plaza/mediator/ExchangeMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    }
+]

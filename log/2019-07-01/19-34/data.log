@@ -1,0 +1,6 @@
+[
+    {
+        "logtime": "2019/07/01 19:34:33",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:316: [string \".\\client/src/controller/command/LoadViewComma...\"]:105: [string \".\\client/src/controller/command/LoadViewComma...\"]:325: [string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:250: attempt to index local 'Button_back' (a nil value)\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:316: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:77: in function 'enterViewFinished'\n\t[string \".\\client/src/app/views/layer/other/PopGameWai...\"]:23: in function <[string \".\\client/src/app/views/layer/other/PopGameWai...\"]:22>"
+    }
+]

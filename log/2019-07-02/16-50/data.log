@@ -1,0 +1,50 @@
+[
+    {
+        "logtime": "2019/07/02 16:50:00",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:50:01",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:50:02",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:50:03",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:50:04",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:50:05",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:50:06",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:50:09",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/02 16:50:09",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/02 16:50:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 16:50:09",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/02 16:50:09",
+        "logdata": ""
+    }
+]

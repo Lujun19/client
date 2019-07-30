@@ -1,0 +1,1466 @@
+[
+    {
+        "logtime": "2019/05/18 11:42:25",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/18 11:42:25",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 11:42:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:42:25",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/18 11:42:25",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 11:42:27",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:42:27",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.199&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/18 11:42:27",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 11:42:27",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/18 11:42:27",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 11:42:27",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:42:27",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/18 11:42:27",
+        "logdata": "action=GetMobileShareConfig&userid=119934&time=1558150947&signature=1F0057AAB812EF08B0961729257078EB"
+    },
+    {
+        "logtime": "2019/05/18 11:42:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:42:30",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/18 11:42:30",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 11:42:31",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:42:31",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.199&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/18 11:42:31",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 11:42:31",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/18 11:42:31",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 11:42:31",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:42:31",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/18 11:42:31",
+        "logdata": "action=GetMobileShareConfig&userid=119943&time=1558150951&signature=0378EDA591A0746FBA704C19F3DDD716"
+    },
+    {
+        "logtime": "2019/05/18 11:42:32",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:42:32",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/18 11:42:32",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:288: attempt to call method 'attach' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\client/src/view/mediator/ClientSceneMediato...\"]:31: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/ClientScene.luac\"]:2836: in function <[string \".\\client/src/plaza/views/ClientScene.luac\"]:2827>\n\t[C]: in function 'dispatchEvent'\n\t[string \".\\client/src/plaza/models/CheckinFrame.lua\"]:124: in function 'onSubCheckinResult'\n\t[string \".\\client/src/plaza/models/CheckinFrame.lua\"]:57: in function 'onSocketEvent'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:134: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:90: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:89>"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:39",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:40",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:44",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:45",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:46",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:47",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:48",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:49",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:50",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:51",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:52",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:52",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:52",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:52",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:52",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:52",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:52",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 11:42:52",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    }
+]

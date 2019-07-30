@@ -1,0 +1,372 @@
+[
+    {
+        "logtime": "2019/07/01 15:48:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:30",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/01 15:48:30",
+        "logdata": "action=GetScoreInfo&userid=119892&time=1561967310&signature=35A840B584E9CF748311C5AA016C30E4"
+    },
+    {
+        "logtime": "2019/07/01 15:48:34",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/01 15:48:34",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/01 15:48:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:34",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/01 15:48:34",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:36",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:36",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:36",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/01 15:48:36",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/01 15:48:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:36",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/01 15:48:36",
+        "logdata": "action=GetMobileShareConfig&userid=119924&time=1561967316&signature=BECB2A4509A2CA69023BD209E2C47BE4"
+    },
+    {
+        "logtime": "2019/07/01 15:48:38",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:38",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/01 15:48:38",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:40",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:42",
+        "logdata": "[string \".\\client/src/view/mediator/ViewMediator.lua\"]:114: module 'game.yule.sparrowxz.src.views.GameLayer' not found:\n\tno field package.preload['game.yule.sparrowxz.src.views.GameLayer']\n\tno file '.\\game\\yule\\sparrowxz\\src\\views\\GameLayer.lua'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\lua\\game\\yule\\sparrowxz\\src\\views\\GameLayer.lua'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\lua\\game\\yule\\sparrowxz\\src\\views\\GameLayer\\init.lua'\n\tno file '.\\game\\yule\\sparrowxz\\src\\views\\GameLayer.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\game\\yule\\sparrowxz\\src\\views\\GameLayer.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\loadall.dll'\n\tno file '.\\game.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\game.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\loadall.dll'\nstack traceback:\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:114: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:619: in function 'LoadGameView'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:230: in function 'onSocketLogonFinish'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:156: in function 'onSocketLogonEvent'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:107: in function 'onSocketEvent'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:141: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:97: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:96>"
+    },
+    {
+        "logtime": "2019/07/01 15:48:48",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/01 15:48:48",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/01 15:48:48",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:48",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/01 15:48:48",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:50",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:50",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:50",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/01 15:48:50",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/01 15:48:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:50",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/01 15:48:50",
+        "logdata": "action=GetMobileShareConfig&userid=119814&time=1561967330&signature=A8F1DAA32EFD2A073FF5D902FAC23B11"
+    },
+    {
+        "logtime": "2019/07/01 15:48:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:52",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/01 15:48:52",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 15:48:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 15:48:55",
+        "logdata": "[string \".\\client/src/view/mediator/ViewMediator.lua\"]:114: module 'game.yule.sparrowxz.src.views.GameLayer' not found:\n\tno field package.preload['game.yule.sparrowxz.src.views.GameLayer']\n\tno file '.\\game\\yule\\sparrowxz\\src\\views\\GameLayer.lua'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\lua\\game\\yule\\sparrowxz\\src\\views\\GameLayer.lua'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\lua\\game\\yule\\sparrowxz\\src\\views\\GameLayer\\init.lua'\n\tno file '.\\game\\yule\\sparrowxz\\src\\views\\GameLayer.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\game\\yule\\sparrowxz\\src\\views\\GameLayer.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\loadall.dll'\n\tno file '.\\game.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\game.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\loadall.dll'\nstack traceback:\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:114: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:619: in function 'LoadGameView'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:230: in function 'onSocketLogonFinish'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:156: in function 'onSocketLogonEvent'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:107: in function 'onSocketEvent'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:141: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:97: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:96>"
+    },
+    {
+        "logtime": "2019/07/01 15:48:58",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/01 15:48:58",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/01 15:48:58",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.shuiguolaba.",
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/01 15:48:58",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/01 15:48:58",
+        "logdata": 406
+    }
+]

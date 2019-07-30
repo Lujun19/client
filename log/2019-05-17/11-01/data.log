@@ -1,0 +1,334 @@
+[
+    {
+        "logtime": "2019/05/17 11:01:10",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/17 11:01:10",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 11:01:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 11:01:11",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 11:01:11",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 11:01:13",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 11:01:13",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 11:01:13",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 11:01:13",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 11:01:13",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 11:01:13",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 11:01:13",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 11:01:13",
+        "logdata": "action=GetMobileShareConfig&userid=119930&time=1558062073&signature=83B60B6C17D6358838DE8C7B8759F818"
+    },
+    {
+        "logtime": "2019/05/17 11:01:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 11:01:16",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 11:01:16",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 11:01:17",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 11:01:17",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 11:01:17",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 11:01:17",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 11:01:17",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 11:01:17",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 11:01:17",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 11:01:17",
+        "logdata": "action=GetMobileShareConfig&userid=119930&time=1558062077&signature=E421C6E3B5E2D01D290650251D2764E9"
+    },
+    {
+        "logtime": "2019/05/17 11:01:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 11:01:18",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 11:01:18",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 11:01:21",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:179: [string \".\\client/src/controller/command/LoadViewComma...\"]:252: aready has same context name, please check\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:179: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseScene.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseScene.lua\"]:97: in function 'exitViewFinished'\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:2224: in function 'onWillViewExit'\n\t[string \".\\view/base/BaseScene.lua\"]:82: in function 'willViewExit'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:182: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseScene.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseScene.lua\"]:56: in function 'unLoadFinished'\n\t[string \".\\view/base/BaseScene.lua\"]:50: in function <[string \".\\view/base/BaseScene.lua\"]:49>"
+    },
+    {
+        "logtime": "2019/05/17 11:01:24",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:24",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:24",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 11:01:27",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:27",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:27",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:28",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 11:01:29",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:29",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:29",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 11:01:29",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:29",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:29",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 11:01:29",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:29",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:29",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 11:01:33",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 11:01:33",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 11:01:33",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    }
+]

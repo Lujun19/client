@@ -1,0 +1,262 @@
+[
+    {
+        "logtime": "2019/07/08 19:51:02",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankOpen...\"]:194: attempt to call method 'dismissPopWait' (a nil value)\nstack traceback:\n\t[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:58: in function 'recvCallBack'\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:51:02",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:51:03",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankOpen...\"]:194: attempt to call method 'dismissPopWait' (a nil value)\nstack traceback:\n\t[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:58: in function 'recvCallBack'\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:51:03",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:51:06",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/08 19:51:06",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/08 19:51:06",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:51:06",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/08 19:51:06",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/08 19:51:08",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/08 19:51:08",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/08 19:51:08",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:51:08",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/08 19:51:08",
+        "logdata": "action=GetMobileShareConfig&userid=119893&time=1562586668&signature=B9FAEA0B293063804D7AF865215CC101"
+    },
+    {
+        "logtime": "2019/07/08 19:51:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:51:09",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/08 19:51:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:18",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:51:19",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:51:55",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankOpen...\"]:194: attempt to call method 'dismissPopWait' (a nil value)\nstack traceback:\n\t[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:58: in function 'recvCallBack'\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:51:55",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:407: in function 'onSocketError'\n\t[string \".\\app/models/AppDF.lua\"]:452: in function <[string \".\\app/models/AppDF.lua\"]:415>"
+    },
+    {
+        "logtime": "2019/07/08 19:51:55",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:51:59",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/08 19:51:59",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/08 19:51:59",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:51:59",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/08 19:51:59",
+        "logdata": ""
+    }
+]

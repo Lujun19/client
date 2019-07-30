@@ -1,0 +1,78 @@
+[
+    {
+        "logtime": "2019/05/16 16:08:00",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/05/16 16:08:03",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/05/16 16:08:03",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/05/16 16:08:04",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/05/16 16:08:05",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 16:08:05",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/16 16:08:05",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/05/16 16:08:05",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 16:08:05",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/16 16:08:05",
+        "logdata": "action=getagentpay"
+    },
+    {
+        "logtime": "2019/05/16 16:08:08",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/05/16 16:08:08",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/05/16 16:08:08",
+        "logdata": "exitViewUserInfo"
+    },
+    {
+        "logtime": "2019/05/16 16:08:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 16:08:09",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/16 16:08:09",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/05/16 16:08:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 16:08:09",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/16 16:08:09",
+        "logdata": "action=getagentpay"
+    }
+]

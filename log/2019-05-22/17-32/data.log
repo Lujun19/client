@@ -1,0 +1,62 @@
+[
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": {
+            "_ServerResVersion": 6,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/redninebattle/",
+            "_KindID": "109",
+            "_Type": "yule",
+            "_KindName": "yule.redninebattle.",
+            "_SortId": 12
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": 109
+    },
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": {
+            "_ServerResVersion": 6,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/redninebattle/",
+            "_KindID": "109",
+            "_Type": "yule",
+            "_KindName": "yule.redninebattle.",
+            "_SortId": 12
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 17:32:41",
+        "logdata": 109
+    }
+]

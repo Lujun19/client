@@ -1,0 +1,106 @@
+[
+    {
+        "logtime": "2019/05/17 13:39:15",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 13:39:15",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 13:39:15",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 13:39:15",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 13:39:15",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 13:39:15",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 13:39:15",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 13:39:15",
+        "logdata": "action=GetMobileShareConfig&userid=119921&time=1558071555&signature=664B36D37E36937E421B7D79F2820C52"
+    },
+    {
+        "logtime": "2019/05/17 13:39:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 13:39:18",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 13:39:18",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 13:39:21",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 13:39:21",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 13:39:21",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/17 13:39:21",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/17 13:39:21",
+        "logdata": 202
+    },
+    {
+        "logtime": "2019/05/17 13:39:27",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 13:39:27",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 13:39:27",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/kpnew/",
+            "_KindID": "28",
+            "_Type": "yule",
+            "_KindName": "yule.kpnew.",
+            "_SortId": 6
+        }
+    },
+    {
+        "logtime": "2019/05/17 13:39:27",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/17 13:39:27",
+        "logdata": 28
+    }
+]

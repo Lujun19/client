@@ -1,0 +1,154 @@
+[
+    {
+        "logtime": "2019/05/18 17:37:02",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/18 17:37:02",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 17:37:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 17:37:02",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/18 17:37:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 17:37:04",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 17:37:04",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.199&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/18 17:37:04",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 17:37:04",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/18 17:37:04",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 17:37:04",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 17:37:04",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/18 17:37:04",
+        "logdata": "action=GetMobileShareConfig&userid=119902&time=1558172224&signature=0E720E3CB75830AFF7AB02D02327080E"
+    },
+    {
+        "logtime": "2019/05/18 17:37:08",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 17:37:08",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/18 17:37:08",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 17:37:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 17:37:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.199&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/18 17:37:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 17:37:09",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/18 17:37:09",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 17:37:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 17:37:09",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/18 17:37:09",
+        "logdata": "action=GetMobileShareConfig&userid=119908&time=1558172229&signature=F6797F906B6DCD6C7B1F2BE8E2531F41"
+    },
+    {
+        "logtime": "2019/05/18 17:37:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 17:37:11",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/18 17:37:11",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 17:37:15",
+        "logdata": "[string \".\\client/src/plaza/models/LevelFrame.lua\"]:26: bad argument #1 to 'upper' (string expected, got no value)\nstack traceback:\n\t[string \".\\client/src/plaza/models/LevelFrame.lua\"]:26: in function 'sendLoadLevel'\n\t[string \".\\client/src/plaza/models/LevelFrame.lua\"]:10: in function 'onConnectCompeleted'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:122: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:90: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:89>"
+    },
+    {
+        "logtime": "2019/05/18 17:37:48",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/18 17:37:48",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 17:37:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 17:37:49",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/18 17:37:49",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 17:37:58",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/18 17:37:58",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 17:37:58",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 17:37:58",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/18 17:37:58",
+        "logdata": ""
+    }
+]

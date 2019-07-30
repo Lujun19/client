@@ -1,0 +1,6 @@
+[
+    {
+        "logtime": "2019/05/24 17:40:00",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/RoomList...\"]:236: room count expected not more than 4 room, please check\nstack traceback:\n\t[string \".\\client/src/plaza/views/layer/plaza/RoomList...\"]:236: in function 'onWillViewEnter'\n\t[string \".\\view/base/BaseLayer.lua\"]:61: in function 'willViewEnter'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:319: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    }
+]

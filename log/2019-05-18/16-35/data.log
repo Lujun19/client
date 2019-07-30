@@ -1,0 +1,70 @@
+[
+    {
+        "logtime": "2019/05/18 16:35:14",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/18 16:35:14",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 16:35:47",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 16:35:47",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/18 16:35:47",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 16:35:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 16:35:49",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.199&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/18 16:35:49",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 16:35:49",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/18 16:35:49",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 16:35:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 16:35:49",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/18 16:35:49",
+        "logdata": "action=GetMobileShareConfig&userid=119919&time=1558168549&signature=224D35154BA5176FA814036A98F18D0B"
+    },
+    {
+        "logtime": "2019/05/18 16:35:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 16:35:52",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/18 16:35:52",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 16:35:57",
+        "logdata": "[string \".\\client/src/plaza/views/ClientScene.lua\"]:3088: attempt to index field 'WebView' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:167: in function <[string \".\\client/src/plaza/views/ClientScene.lua\"]:165>"
+    }
+]

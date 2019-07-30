@@ -1,0 +1,6 @@
+[
+    {
+        "logtime": "2019/06/27 18:03:43",
+        "logdata": "[string \".\\client/src/plaza/views/ClientScene.lua\"]:200: attempt to get length of field '_sceneRecord' (a nil value)\nstack traceback:"
+    }
+]

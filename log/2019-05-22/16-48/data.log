@@ -1,0 +1,112 @@
+[
+    {
+        "logtime": "2019/05/22 16:48:12",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/22 16:48:12",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 16:48:13",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:48:13",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/22 16:48:13",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:48:15",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:48:15",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:48:15",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:48:15",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/22 16:48:15",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 16:48:15",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:48:15",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 16:48:15",
+        "logdata": "action=GetMobileShareConfig&userid=119944&time=1558514895&signature=91DA1DF61EF67CE0047285A811EA9D50"
+    },
+    {
+        "logtime": "2019/05/22 16:48:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:48:18",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/22 16:48:18",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:48:25",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 16:48:25",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 16:48:25",
+        "logdata": {
+            "_ServerResVersion": 1,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowxz/",
+            "_KindID": "302",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowxz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:48:25",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 16:48:25",
+        "logdata": 302
+    },
+    {
+        "logtime": "2019/05/22 16:48:26",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:48:26",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:48:26",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:48:29",
+        "logdata": "[string \".\\client/src/view/mediator/ViewMediator.lua\"]:114: module 'game.yule.sparrowxz.src.views.GameLayer' not found:\n\tno field package.preload['game.yule.sparrowxz.src.views.GameLayer']\n\tno file '.\\game\\yule\\sparrowxz\\src\\views\\GameLayer.lua'\n\tno file 'D:\\qipaiv1client\\Debug.win32\\lua\\game\\yule\\sparrowxz\\src\\views\\GameLayer.lua'\n\tno file 'D:\\qipaiv1client\\Debug.win32\\lua\\game\\yule\\sparrowxz\\src\\views\\GameLayer\\init.lua'\n\tno file '.\\game\\yule\\sparrowxz\\src\\views\\GameLayer.dll'\n\tno file 'D:\\qipaiv1client\\Debug.win32\\game\\yule\\sparrowxz\\src\\views\\GameLayer.dll'\n\tno file 'D:\\qipaiv1client\\Debug.win32\\loadall.dll'\n\tno file '.\\game.dll'\n\tno file 'D:\\qipaiv1client\\Debug.win32\\game.dll'\n\tno file 'D:\\qipaiv1client\\Debug.win32\\loadall.dll'\nstack traceback:\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:114: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:619: in function 'LoadGameView'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:737: in function 'onSocketUserStatus'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:323: in function 'onSocketUserEvent'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:113: in function 'onSocketEvent'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:134: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:90: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:89>"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "logtime": "2019/05/16 15:28:33",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/16 15:28:33",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/16 15:28:33",
+        "logdata": {
+            "_ServerResVersion": 7,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/16 15:28:33",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/16 15:28:33",
+        "logdata": 202
+    }
+]

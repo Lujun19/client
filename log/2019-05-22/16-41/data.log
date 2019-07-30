@@ -1,0 +1,168 @@
+[
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": {
+            "_ServerResVersion": 1,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/thirteenx/",
+            "_KindID": "49",
+            "_Type": "qipai",
+            "_KindName": "qipai.thirteenx.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": 49
+    },
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": {
+            "_ServerResVersion": 1,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/runfasthn/",
+            "_KindID": "601",
+            "_Type": "yule",
+            "_KindName": "yule.runfasthn.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 16:41:04",
+        "logdata": 601
+    },
+    {
+        "logtime": "2019/05/22 16:41:24",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/22 16:41:24",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 16:41:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:41:24",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/22 16:41:24",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:41:27",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:41:27",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:41:27",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:41:27",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/22 16:41:27",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 16:41:27",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:41:27",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 16:41:27",
+        "logdata": "action=GetMobileShareConfig&userid=119911&time=1558514487&signature=11E8C4A0154BF2BA3B27E3F559A02607"
+    },
+    {
+        "logtime": "2019/05/22 16:41:29",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:41:29",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/22 16:41:29",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:41:49",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 16:41:49",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 16:41:49",
+        "logdata": {
+            "_ServerResVersion": 1,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/runfasthn/",
+            "_KindID": "601",
+            "_Type": "yule",
+            "_KindName": "yule.runfasthn.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:41:49",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 16:41:49",
+        "logdata": 601
+    },
+    {
+        "logtime": "2019/05/22 16:41:51",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:41:51",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:41:51",
+        "logdata": ""
+    }
+]

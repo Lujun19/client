@@ -1,0 +1,96 @@
+[
+    {
+        "logtime": "2019/07/16 14:54:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:54:10",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/16 14:54:10",
+        "logdata": "action=GetScoreInfo&userid=119938&time=1563260050&signature=9B4581595E25BFE7D4A9B837E0026459"
+    },
+    {
+        "logtime": "2019/07/16 14:54:14",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/16 14:54:14",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 14:54:14",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:54:14",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/16 14:54:14",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 14:54:16",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/16 14:54:16",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 14:54:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:54:16",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/16 14:54:16",
+        "logdata": "action=GetMobileShareConfig&userid=119941&time=1563260056&signature=D985BD8972978263DC771ABC9657A608"
+    },
+    {
+        "logtime": "2019/07/16 14:54:17",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:54:17",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/16 14:54:17",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 14:54:20",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/16 14:54:20",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/16 14:54:20",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/16 14:54:20",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/16 14:54:20",
+        "logdata": 202
+    }
+]

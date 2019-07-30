@@ -1,0 +1,57 @@
+[
+    {
+        "logtime": "2019/07/24 14:25:43",
+        "logdata": "[string \".\\client/src/plaza/views/ClientScene.lua\"]:1189: attempt to index local 'radioGroupLayout' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:1170: in function 'onEnterTransitionFinish'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:235: in function <[string \".\\client/src/controller/command/LoadViewComma...\"]:229>"
+    },
+    {
+        "logtime": "2019/07/24 14:25:43",
+        "logdata": [
+            {
+                "main": 6,
+                "kindid": 109,
+                "len": 70,
+                "sub": 8
+            }
+        ]
+    },
+    {
+        "logtime": "2019/07/24 14:25:48",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/24 14:25:48",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 14:25:48",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:25:48",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/24 14:25:48",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/24 14:25:50",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 14:25:50",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 14:25:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:25:50",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 14:25:50",
+        "logdata": "action=GetMobileShareConfig&userid=119940&time=1563949550&signature=FCDC0AE668121FF956C86EBBB401EC56"
+    }
+]

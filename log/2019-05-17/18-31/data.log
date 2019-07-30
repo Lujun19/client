@@ -1,0 +1,606 @@
+[
+    {
+        "logtime": "2019/05/17 18:31:34",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/17 18:31:34",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 18:31:35",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:35",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 18:31:35",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:36",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 18:31:36",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:36",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 18:31:36",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 18:31:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:36",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 18:31:36",
+        "logdata": "action=GetMobileShareConfig&userid=119932&time=1558089096&signature=60088EB6563412E2EB183C7E2725B98F"
+    },
+    {
+        "logtime": "2019/05/17 18:31:39",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:39",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 18:31:39",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "http://www.fuannabbs.top/index.txt"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "gamelist"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "action=getgamelist&agentAcc="
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "http://www.fuannabbs.top/WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "action=getserverconfig"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "gamelist"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": [
+            {
+                "KindName": "百人牌九",
+                "KindID": "109",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.redninebattle",
+                "TypeID": "0",
+                "ResVersion": "6",
+                "SortID": "12"
+            },
+            {
+                "KindName": "中发白",
+                "KindID": "105",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "xiuxian.zhongfabai",
+                "TypeID": "0",
+                "ResVersion": "4",
+                "SortID": "8"
+            },
+            {
+                "KindName": "通比牛牛",
+                "KindID": "36",
+                "KindMark": "3",
+                "KindType": "1",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.oxsixex",
+                "TypeID": "2",
+                "ResVersion": "5",
+                "SortID": "8"
+            },
+            {
+                "KindName": "百人牛牛",
+                "KindID": "104",
+                "KindMark": "3",
+                "KindType": "3",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.oxbattle",
+                "TypeID": "6",
+                "ResVersion": "4",
+                "SortID": "7"
+            },
+            {
+                "KindName": "不洗牌斗地主",
+                "KindID": "202",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "qipai.landnoshuffle",
+                "TypeID": "0",
+                "ResVersion": "11",
+                "SortID": "7"
+            },
+            {
+                "KindName": "看牌牛牛",
+                "KindID": "28",
+                "KindMark": "3",
+                "KindType": "1",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.kpnew",
+                "TypeID": "2",
+                "ResVersion": "5",
+                "SortID": "6"
+            },
+            {
+                "KindName": "李逵劈鱼",
+                "KindID": "407",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.xlkpy",
+                "TypeID": "0",
+                "ResVersion": "8",
+                "SortID": "5"
+            },
+            {
+                "KindName": "百家乐",
+                "KindID": "122",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "xiuxian.baccaratnew",
+                "TypeID": "6",
+                "ResVersion": "3",
+                "SortID": "3"
+            },
+            {
+                "KindName": "龙凤斗",
+                "KindID": "133",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "xiuxian.longfengdou",
+                "TypeID": "0",
+                "ResVersion": "3",
+                "SortID": "2"
+            },
+            {
+                "KindName": "诈金花",
+                "KindID": "6",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.zhajinhua",
+                "TypeID": "2",
+                "ResVersion": "8",
+                "SortID": "1"
+            },
+            {
+                "KindName": "十三水",
+                "KindID": "49",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "qipai.thirteenx",
+                "TypeID": "0",
+                "ResVersion": "1",
+                "SortID": "1"
+            },
+            {
+                "KindName": "跑得快",
+                "KindID": "601",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.runfasthn",
+                "TypeID": "0",
+                "ResVersion": "1",
+                "SortID": "1"
+            },
+            {
+                "KindName": "红黑大战",
+                "KindID": "211",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "qipai.redblack",
+                "TypeID": "0",
+                "ResVersion": "10",
+                "SortID": "1"
+            },
+            {
+                "KindName": "红中麻将",
+                "KindID": "389",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.sparrowhz",
+                "TypeID": "0",
+                "ResVersion": "1",
+                "SortID": "1"
+            },
+            {
+                "KindName": "水果拉霸",
+                "KindID": "406",
+                "KindMark": "3",
+                "KindType": "1",
+                "ClientVersion": "101122049",
+                "ModuleName": "xiuxian.shuiguolaba",
+                "TypeID": "0",
+                "ResVersion": "9",
+                "SortID": "0"
+            }
+        ]
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 18:31:44",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:46",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 18:31:46",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:46",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 18:31:46",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 18:31:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:46",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 18:31:46",
+        "logdata": "action=GetMobileShareConfig&userid=119909&time=1558089106&signature=236093F05F41BEF87ABBA822AD170342"
+    },
+    {
+        "logtime": "2019/05/17 18:31:48",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:48",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 18:31:48",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:50",
+        "logdata": "[string \".\\client/src/view/mediator/ClientSceneMediato...\"]:37: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\framework/puremvc/patterns/observer/Notifie...\"]:64: in function 'sendNotification'\n\t[string \".\\client/src/model/proxy/AppConfigProxy.lua\"]:55: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:210: in function <[string \".\\app/models/AppDF.lua\"]:191>"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "http://www.fuannabbs.top/index.txt"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "gamelist"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "action=getgamelist&agentAcc="
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "http://www.fuannabbs.top/WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "action=getserverconfig"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "gamelist"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": [
+            {
+                "KindName": "百人牌九",
+                "KindID": "109",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.redninebattle",
+                "TypeID": "0",
+                "ResVersion": "6",
+                "SortID": "12"
+            },
+            {
+                "KindName": "中发白",
+                "KindID": "105",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "xiuxian.zhongfabai",
+                "TypeID": "0",
+                "ResVersion": "4",
+                "SortID": "8"
+            },
+            {
+                "KindName": "通比牛牛",
+                "KindID": "36",
+                "KindMark": "3",
+                "KindType": "1",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.oxsixex",
+                "TypeID": "2",
+                "ResVersion": "5",
+                "SortID": "8"
+            },
+            {
+                "KindName": "百人牛牛",
+                "KindID": "104",
+                "KindMark": "3",
+                "KindType": "3",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.oxbattle",
+                "TypeID": "6",
+                "ResVersion": "4",
+                "SortID": "7"
+            },
+            {
+                "KindName": "不洗牌斗地主",
+                "KindID": "202",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "qipai.landnoshuffle",
+                "TypeID": "0",
+                "ResVersion": "11",
+                "SortID": "7"
+            },
+            {
+                "KindName": "看牌牛牛",
+                "KindID": "28",
+                "KindMark": "3",
+                "KindType": "1",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.kpnew",
+                "TypeID": "2",
+                "ResVersion": "5",
+                "SortID": "6"
+            },
+            {
+                "KindName": "李逵劈鱼",
+                "KindID": "407",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.xlkpy",
+                "TypeID": "0",
+                "ResVersion": "8",
+                "SortID": "5"
+            },
+            {
+                "KindName": "百家乐",
+                "KindID": "122",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "xiuxian.baccaratnew",
+                "TypeID": "6",
+                "ResVersion": "3",
+                "SortID": "3"
+            },
+            {
+                "KindName": "龙凤斗",
+                "KindID": "133",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "xiuxian.longfengdou",
+                "TypeID": "0",
+                "ResVersion": "3",
+                "SortID": "2"
+            },
+            {
+                "KindName": "诈金花",
+                "KindID": "6",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.zhajinhua",
+                "TypeID": "2",
+                "ResVersion": "8",
+                "SortID": "1"
+            },
+            {
+                "KindName": "十三水",
+                "KindID": "49",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "qipai.thirteenx",
+                "TypeID": "0",
+                "ResVersion": "1",
+                "SortID": "1"
+            },
+            {
+                "KindName": "跑得快",
+                "KindID": "601",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.runfasthn",
+                "TypeID": "0",
+                "ResVersion": "1",
+                "SortID": "1"
+            },
+            {
+                "KindName": "红黑大战",
+                "KindID": "211",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "qipai.redblack",
+                "TypeID": "0",
+                "ResVersion": "10",
+                "SortID": "1"
+            },
+            {
+                "KindName": "红中麻将",
+                "KindID": "389",
+                "KindMark": "3",
+                "KindType": "2",
+                "ClientVersion": "101122049",
+                "ModuleName": "yule.sparrowhz",
+                "TypeID": "0",
+                "ResVersion": "1",
+                "SortID": "1"
+            },
+            {
+                "KindName": "水果拉霸",
+                "KindID": "406",
+                "KindMark": "3",
+                "KindType": "1",
+                "ClientVersion": "101122049",
+                "ModuleName": "xiuxian.shuiguolaba",
+                "TypeID": "0",
+                "ResVersion": "9",
+                "SortID": "0"
+            }
+        ]
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 18:31:56",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:58",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:58",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 18:31:58",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 18:31:58",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 18:31:58",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 18:31:58",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 18:31:58",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 18:31:58",
+        "logdata": "action=GetMobileShareConfig&userid=119921&time=1558089118&signature=7D7591CADD404E60B4D72DBCA7AEDCB2"
+    }
+]

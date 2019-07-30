@@ -1,0 +1,37 @@
+[
+    {
+        "logtime": "2019/05/17 10:59:05",
+        "logdata": "error loading module 'client.src.plaza.views.layer.plaza.ShopLayer' from file '.\\client\\src\\plaza\\views\\layer\\plaza\\ShopLayer.lua':\n\t.\\client\\src\\plaza\\views\\layer\\plaza\\ShopLayer.lua:1317: ')' expected near '='\nstack traceback:\n\t[C]: in function 'req'\n\t[string \".\\client/src/plaza/views/layer/plaza/EveryDay...\"]:10: in main chunk\n\t[C]: in function 'req'\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:22: in main chunk\n\t[C]: in function 'require'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:83: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:872: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:210: in function <[string \".\\app/models/AppDF.lua\"]:191>"
+    },
+    {
+        "logtime": "2019/05/17 10:59:07",
+        "logdata": [
+            {
+                "main": 100,
+                "kindid": 0,
+                "len": 161,
+                "sub": 5
+            }
+        ]
+    },
+    {
+        "logtime": "2019/05/17 10:59:53",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/17 10:59:53",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/05/17 10:59:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 10:59:53",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 10:59:53",
+        "logdata": ""
+    }
+]

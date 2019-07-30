@@ -1,0 +1,174 @@
+[
+    {
+        "logtime": "2019/07/10 11:51:00",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/10 11:51:00",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 11:51:00",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:00",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/10 11:51:00",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/10 11:51:02",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/10 11:51:02",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 11:51:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:02",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/10 11:51:02",
+        "logdata": "action=GetMobileShareConfig&userid=119901&time=1562730662&signature=0DE04EC6E3CEFDC60007E80B8B8D9E48"
+    },
+    {
+        "logtime": "2019/07/10 11:51:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:03",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/10 11:51:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/10 11:51:06",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/07/10 11:51:07",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/10 11:51:07",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/07/10 11:51:07",
+        "logdata": "exitViewUserInfo"
+    },
+    {
+        "logtime": "2019/07/10 11:51:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:18",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/07/10 11:51:18",
+        "logdata": "action=LotteryConfig"
+    },
+    {
+        "logtime": "2019/07/10 11:51:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:18",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/07/10 11:51:18",
+        "logdata": "action=LotteryUserInfo&userid=119901&time=1562730678&signature=0BB7661D7E1521547595638952D3BCA6"
+    },
+    {
+        "logtime": "2019/07/10 11:51:22",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/EarnLaye...\"]:344: attempt to index global 'self' (a nil value)\nstack traceback:\n\t[C]: in function 'require'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:164: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:3200: in function 'onButtonClickedEvent'\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:167: in function <[string \".\\client/src/plaza/views/ClientScene.lua\"]:165>"
+    },
+    {
+        "logtime": "2019/07/10 11:51:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:24",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/10 11:51:24",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/07/10 11:51:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:24",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/10 11:51:24",
+        "logdata": "action=getagentpay"
+    },
+    {
+        "logtime": "2019/07/10 11:51:28",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/10 11:51:28",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 11:51:28",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:28",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/10 11:51:28",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/10 11:51:30",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/10 11:51:30",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 11:51:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:30",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/10 11:51:30",
+        "logdata": "action=GetMobileShareConfig&userid=119911&time=1562730690&signature=22B0ACC7EC62898A2673CAA48E6EAB1C"
+    },
+    {
+        "logtime": "2019/07/10 11:51:32",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 11:51:32",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/10 11:51:32",
+        "logdata": ""
+    }
+]

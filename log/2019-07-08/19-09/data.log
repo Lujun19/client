@@ -1,0 +1,18 @@
+[
+    {
+        "logtime": "2019/07/08 19:09:40",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:09:40",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:407: in function 'onSocketError'\n\t[string \".\\app/models/AppDF.lua\"]:452: in function <[string \".\\app/models/AppDF.lua\"]:415>"
+    },
+    {
+        "logtime": "2019/07/08 19:09:41",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:09:42",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    }
+]

@@ -1,0 +1,505 @@
+[
+    {
+        "logtime": "2019/07/02 18:14:32",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/02 18:14:32",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/02 18:14:32",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:32",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/02 18:14:32",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:34",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 18:14:34",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:34",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/02 18:14:34",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/02 18:14:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:34",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/02 18:14:34",
+        "logdata": "action=GetMobileShareConfig&userid=120187&time=1562062474&signature=64435334C1C2A1663D5A268109CAD4AE"
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/02 18:14:36",
+        "logdata": "action=GetMobileShareConfig&userid=120187&time=1562062476&signature=A3A2A9F6ADC6E20A0AC7B24C0737BD7A"
+    },
+    {
+        "logtime": "2019/07/02 18:14:37",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:37",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/02 18:14:37",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:41",
+        "logdata": "[string \".\\client/src/view/mediator/ClientSceneMediato...\"]:31: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:2835: in function <[string \".\\client/src/plaza/views/ClientScene.lua\"]:2826>\n\t[C]: in function 'dispatchEvent'\n\t[string \".\\client/src/plaza/models/CheckinFrame.lua\"]:124: in function 'onSubCheckinResult'\n\t[string \".\\client/src/plaza/models/CheckinFrame.lua\"]:57: in function 'onSocketEvent'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:141: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:97: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:96>"
+    },
+    {
+        "logtime": "2019/07/02 18:14:41",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:288: attempt to call method 'attach' (a nil value)\nstack traceback:\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/07/02 18:14:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:41",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:42",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:43",
+        "logdata": "[string \".\\view/base/BaseLayer.lua\"]:31: attempt to call method 'loadFinished' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 18:14:45",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/02 18:14:45",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/02 18:14:45",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:45",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/02 18:14:45",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:50",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 18:14:50",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:50",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/02 18:14:50",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/02 18:14:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:50",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/02 18:14:50",
+        "logdata": "action=GetMobileShareConfig&userid=120187&time=1562062490&signature=99D5D28ADBAB3D1BBB5A43E97E1079F0"
+    },
+    {
+        "logtime": "2019/07/02 18:14:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:52",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/02 18:14:52",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:56",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/02 18:14:56",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/02 18:14:56",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.shuiguolaba.",
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/02 18:14:56",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/02 18:14:56",
+        "logdata": 406
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 18:14:57",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 18:14:58",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.shuiguolaba.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/02 18:14:58",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/02 18:14:58",
+        "logdata": "xiuxian/shuiguolaba/"
+    }
+]

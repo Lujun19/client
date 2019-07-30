@@ -1,0 +1,205 @@
+[
+    {
+        "logtime": "2019/07/01 16:14:26",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:26",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/01 16:14:26",
+        "logdata": "action=GetScoreInfo&userid=119930&time=1561968866&signature=F9890BC6441BCD9D7400B2909EA10D15"
+    },
+    {
+        "logtime": "2019/07/01 16:14:33",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/01 16:14:33",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/01 16:14:33",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:33",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/01 16:14:33",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 16:14:35",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:35",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 16:14:35",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 16:14:35",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/01 16:14:35",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/01 16:14:35",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:35",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/01 16:14:35",
+        "logdata": "action=GetMobileShareConfig&userid=119947&time=1561968875&signature=F733BCABF796B9D623BCD42F08E00A80"
+    },
+    {
+        "logtime": "2019/07/01 16:14:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:36",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/01 16:14:36",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 16:14:42",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/01 16:14:42",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/01 16:14:42",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.shuiguolaba.",
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/01 16:14:42",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/01 16:14:42",
+        "logdata": 406
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.shuiguolaba.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/01 16:14:43",
+        "logdata": "xiuxian/shuiguolaba/"
+    }
+]

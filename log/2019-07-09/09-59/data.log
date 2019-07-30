@@ -1,0 +1,158 @@
+[
+    {
+        "logtime": "2019/07/09 09:59:00",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/09 09:59:00",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 09:59:00",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 09:59:00",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/09 09:59:00",
+        "logdata": "action=GetMobileShareConfig&userid=119914&time=1562637540&signature=F0039BE8DC7310B369DA8FE7D47CF9C4"
+    },
+    {
+        "logtime": "2019/07/09 09:59:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 09:59:02",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/09 09:59:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 09:59:05",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 09:59:15",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:322: attempt to index local 'SliUserScore' (a number value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/09 09:59:15",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:322: in function <[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:315>"
+    },
+    {
+        "logtime": "2019/07/09 09:59:18",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/09 09:59:18",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 09:59:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 09:59:18",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/09 09:59:18",
+        "logdata": ""
+    }
+]

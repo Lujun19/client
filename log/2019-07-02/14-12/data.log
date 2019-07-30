@@ -1,0 +1,142 @@
+[
+    {
+        "logtime": "2019/07/02 14:12:15",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/02 14:12:15",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/02 14:12:15",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.shuiguolaba.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/02 14:12:16",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/02 14:12:16",
+        "logdata": 406
+    },
+    {
+        "logtime": "2019/07/02 14:12:17",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 14:12:17",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 14:12:17",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 14:12:18",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.shuiguolaba.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/02 14:12:18",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/02 14:12:18",
+        "logdata": "xiuxian/shuiguolaba/"
+    },
+    {
+        "logtime": "2019/07/02 14:12:37",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/02 14:12:37",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/02 14:12:37",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.shuiguolaba.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/02 14:12:38",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/02 14:12:38",
+        "logdata": 406
+    },
+    {
+        "logtime": "2019/07/02 14:12:41",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 14:12:41",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 14:12:41",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 14:12:41",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.shuiguolaba.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/02 14:12:41",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/02 14:12:41",
+        "logdata": "xiuxian/shuiguolaba/"
+    }
+]

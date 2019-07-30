@@ -1,0 +1,370 @@
+[
+    {
+        "logtime": "2019/07/16 11:28:06",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/16 11:28:06",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 11:28:06",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 11:28:06",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/16 11:28:06",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 11:28:08",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/16 11:28:08",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 11:28:08",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 11:28:08",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/16 11:28:08",
+        "logdata": "action=GetMobileShareConfig&userid=119923&time=1563247688&signature=4E15270F64116CFAF7AC00EEFBD94445"
+    },
+    {
+        "logtime": "2019/07/16 11:28:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 11:28:10",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/16 11:28:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:17",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/16 11:28:21",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:22",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:23",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:24",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:25",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:26",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:27",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:28",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:29",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:30",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:31",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:32",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:33",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:34",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:35",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:36",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:37",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:38",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:39",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 11:28:40",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/16 11:28:41",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:42",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:43",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:44",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:45",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:46",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:47",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:48",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:49",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:50",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:51",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:52",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:53",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:54",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:55",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:56",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:57",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:58",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/16 11:28:59",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    }
+]

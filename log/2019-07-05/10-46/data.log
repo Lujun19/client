@@ -1,0 +1,124 @@
+[
+    {
+        "logtime": "2019/07/05 10:46:03",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/05 10:46:03",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/05 10:46:03",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/05 10:46:04",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/05 10:46:04",
+        "logdata": 202
+    },
+    {
+        "logtime": "2019/07/05 10:46:06",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:46:06",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/05 10:46:06",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/07/05 10:46:06",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:46:06",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/05 10:46:06",
+        "logdata": "action=getagentpay"
+    },
+    {
+        "logtime": "2019/07/05 10:46:10",
+        "logdata": "normal_to_agent_up"
+    },
+    {
+        "logtime": "2019/07/05 10:46:16",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/05 10:46:16",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/05 10:46:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:46:16",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/05 10:46:16",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/05 10:46:20",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:46:20",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.49.18&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/05 10:46:20",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/05 10:46:20",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/05 10:46:20",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/05 10:46:20",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:46:20",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/05 10:46:20",
+        "logdata": "action=GetMobileShareConfig&userid=120188&time=1562294780&signature=492ED9E7282A84B505FAE2373F097341"
+    },
+    {
+        "logtime": "2019/07/05 10:46:21",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/05 10:46:21",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/05 10:46:21",
+        "logdata": ""
+    }
+]

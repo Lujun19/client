@@ -1,0 +1,152 @@
+[
+    {
+        "logtime": "2019/05/22 16:25:00",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:25:00",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/22 16:25:00",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:25:04",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:25:04",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:25:04",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:25:04",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/22 16:25:04",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 16:25:04",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:25:04",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 16:25:04",
+        "logdata": "action=GetMobileShareConfig&userid=119905&time=1558513504&signature=6DF8BA83548E3DDEA70C7219B68DD700"
+    },
+    {
+        "logtime": "2019/05/22 16:25:37",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/22 16:25:37",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 16:25:38",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:25:38",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/22 16:25:38",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:25:39",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:25:39",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:25:39",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:25:39",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/22 16:25:39",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 16:25:39",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:25:39",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 16:25:39",
+        "logdata": "action=GetMobileShareConfig&userid=119796&time=1558513539&signature=F9EB8B2FD69AF793195248F61466F62D"
+    },
+    {
+        "logtime": "2019/05/22 16:25:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:25:43",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/22 16:25:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:25:50",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 16:25:50",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 16:25:50",
+        "logdata": {
+            "_ServerResVersion": 6,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/redninebattle/",
+            "_KindID": "109",
+            "_Type": "yule",
+            "_KindName": "yule.redninebattle.",
+            "_SortId": 12
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:25:51",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 16:25:51",
+        "logdata": 109
+    },
+    {
+        "logtime": "2019/05/22 16:25:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:25:53",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:25:53",
+        "logdata": ""
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "logtime": "2019/05/22 17:05:04",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 17:05:04",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 17:05:04",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowhz/",
+            "_KindID": "389",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowhz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:05:04",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 17:05:04",
+        "logdata": 389
+    },
+    {
+        "logtime": "2019/05/22 17:05:08",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:05:08",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 17:05:08",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:05:08",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowhz/",
+            "_KindID": "389",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.sparrowhz.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:05:08",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/05/22 17:05:08",
+        "logdata": "yule/sparrowhz/"
+    },
+    {
+        "logtime": "2019/05/22 17:05:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:05:24",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 17:05:24",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/05/22 17:05:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:05:24",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 17:05:24",
+        "logdata": "action=getagentpay"
+    },
+    {
+        "logtime": "2019/05/22 17:05:26",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:05:26",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 17:05:26",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:05:26",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowhz/",
+            "_KindID": "389",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.sparrowhz.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:05:26",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/05/22 17:05:26",
+        "logdata": "yule/sparrowhz/"
+    },
+    {
+        "logtime": "2019/05/22 17:05:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:05:40",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 17:05:40",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/05/22 17:05:40",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:05:40",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 17:05:40",
+        "logdata": "action=getagentpay"
+    }
+]

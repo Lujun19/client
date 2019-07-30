@@ -1,0 +1,164 @@
+[
+    {
+        "logtime": "2019/07/16 14:51:06",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/16 14:51:06",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/16 14:51:06",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/16 14:51:06",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/16 14:51:06",
+        "logdata": 202
+    },
+    {
+        "logtime": "2019/07/16 14:51:09",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "nSitChair": 65535,
+            "_KindName": "qipai.landnoshuffle.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/16 14:51:09",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/16 14:51:09",
+        "logdata": "qipai/landnoshuffle/"
+    },
+    {
+        "logtime": "2019/07/16 14:51:25",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/16 14:51:25",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 14:51:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:51:25",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/16 14:51:25",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 14:51:27",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/16 14:51:27",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 14:51:27",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:51:27",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/16 14:51:27",
+        "logdata": "action=GetMobileShareConfig&userid=119943&time=1563259887&signature=F75472A3C46F6C4690DC84DDA009E95F"
+    },
+    {
+        "logtime": "2019/07/16 14:51:29",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:51:29",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/16 14:51:29",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 14:51:35",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/16 14:51:35",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/16 14:51:35",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/16 14:51:35",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/16 14:51:35",
+        "logdata": 202
+    },
+    {
+        "logtime": "2019/07/16 14:51:37",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "nSitChair": 65535,
+            "_KindName": "qipai.landnoshuffle.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/16 14:51:37",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/16 14:51:37",
+        "logdata": "qipai/landnoshuffle/"
+    }
+]

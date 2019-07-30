@@ -1,0 +1,98 @@
+[
+    {
+        "logtime": "2019/07/24 17:02:04",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/24 17:02:04",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 17:02:04",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 17:02:04",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/24 17:02:04",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/24 17:02:06",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 17:02:06",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 17:02:06",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 17:02:06",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 17:02:06",
+        "logdata": "action=GetMobileShareConfig&userid=119888&time=1563958926&signature=5C8EB5D74F0B38EE97C0DE9C7A4B1BEB"
+    },
+    {
+        "logtime": "2019/07/24 17:02:47",
+        "logdata": "error loading module 'client.src.plaza.views.ClientScene' from file '.\\client\\src\\plaza\\views\\ClientScene.lua':\n\t.\\client\\src\\plaza\\views\\ClientScene.lua:1579: unexpected symbol near '='\nstack traceback:\n\t[C]: in function 'require'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:83: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:898: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/24 17:02:53",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/24 17:02:53",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 17:02:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 17:02:53",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/24 17:02:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/24 17:02:55",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 17:02:55",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 17:02:55",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 17:02:55",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 17:02:55",
+        "logdata": "action=GetMobileShareConfig&userid=119802&time=1563958975&signature=8F13F13875B550DC929CAA63195A41CD"
+    },
+    {
+        "logtime": "2019/07/24 17:02:57",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 17:02:57",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/24 17:02:57",
+        "logdata": ""
+    }
+]

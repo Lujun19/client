@@ -1,0 +1,795 @@
+[
+    {
+        "logtime": "2019/07/30 14:29:08",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/30 14:29:08",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/30 14:29:08",
+        "logdata": {
+            "_ServerResVersion": 8,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/xlkpy/",
+            "_KindID": "407",
+            "_Type": "yule",
+            "_KindName": "yule.xlkpy.",
+            "_SortId": 5
+        }
+    },
+    {
+        "logtime": "2019/07/30 14:29:08",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/30 14:29:08",
+        "logdata": 407
+    },
+    {
+        "logtime": "2019/07/30 14:29:29",
+        "logdata": 4
+    },
+    {
+        "logtime": "2019/07/30 14:29:29",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:29:29",
+        "logdata": "http://154.48.228.19/download/test//game/xiuxian/zhongfabai/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/07/30 14:29:29",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 14:29:31",
+        "logdata": 6
+    },
+    {
+        "logtime": "2019/07/30 14:29:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:29:43",
+        "logdata": "http://154.48.228.19/download/test//game/yule/redninebattle/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/07/30 14:29:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 14:29:46",
+        "logdata": "[string \".\\client/src/app/controllers/ClientUpdate.lua\"]:71: attempt to concatenate local 'oldpath' (a userdata value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/30 14:29:47",
+        "logdata": 5
+    },
+    {
+        "logtime": "2019/07/30 14:29:47",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/30 14:29:47",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122050",
+            "_KindType": 2,
+            "_Module": "xiuxian/zhongfabai/",
+            "_KindID": "105",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.zhongfabai.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122050",
+            "_KindType": 2,
+            "_Module": "xiuxian/zhongfabai/",
+            "_KindID": "105",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.zhongfabai.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "xiuxian/zhongfabai/"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "bool"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "bool"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:48",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "bool"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "table"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "int"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "int"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "int"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "table"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "int"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "int"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "table"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "bool"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:49",
+        "logdata": "int"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "int"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/30 14:29:52",
+        "logdata": "byte"
+    }
+]

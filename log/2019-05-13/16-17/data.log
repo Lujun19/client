@@ -1,0 +1,142 @@
+[
+    {
+        "logtime": "2019/05/13 16:17:07",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/13 16:17:07",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/13 16:17:07",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 16:17:07",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/13 16:17:07",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 16:17:15",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 16:17:15",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.80.214&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/13 16:17:15",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 16:17:15",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/13 16:17:15",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/13 16:17:15",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 16:17:15",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/13 16:17:15",
+        "logdata": "action=GetMobileShareConfig&userid=120776&time=1557735435&signature=38F36CEF6BBB830E5524458DDCF7746D"
+    },
+    {
+        "logtime": "2019/05/13 16:17:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 16:17:18",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/13 16:17:18",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 16:17:30",
+        "logdata": {}
+    },
+    {
+        "logtime": "2019/05/13 16:17:40",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/13 16:17:40",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/13 16:17:41",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 16:17:41",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/13 16:17:41",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 16:17:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 16:17:46",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.80.214&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/13 16:17:46",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 16:17:46",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/13 16:17:46",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/13 16:17:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 16:17:46",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/13 16:17:46",
+        "logdata": "action=GetMobileShareConfig&userid=120777&time=1557735466&signature=E7D768B0A70E9BA355E8D76C80C84CC5"
+    },
+    {
+        "logtime": "2019/05/13 16:17:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 16:17:49",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/13 16:17:49",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 16:17:55",
+        "logdata": "[string \".\\client/src/plaza/views/LogonScene.lua\"]:565: attempt to index field '_logonFrame' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:324: in function <[string \".\\app/models/AppDF.lua\"]:281>"
+    },
+    {
+        "logtime": "2019/05/13 16:17:55",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:565: in function 'recvCallBack'\n\t[string \".\\app/models/AppDF.lua\"]:324: in function <[string \".\\app/models/AppDF.lua\"]:281>"
+    }
+]

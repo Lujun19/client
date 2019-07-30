@@ -1,0 +1,94 @@
+[
+    {
+        "logtime": "2019/07/04 17:36:04",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/04 17:36:04",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/04 17:36:04",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/04 17:36:04",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/04 17:36:04",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/04 17:36:06",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/04 17:36:06",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.49.18&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/04 17:36:06",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/04 17:36:06",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/04 17:36:06",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/04 17:36:06",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/04 17:36:06",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/04 17:36:06",
+        "logdata": "action=GetMobileShareConfig&userid=120188&time=1562232966&signature=F4B3E1C6C21F9ED54D0D460248EB1CF6"
+    },
+    {
+        "logtime": "2019/07/04 17:36:08",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/04 17:36:08",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/04 17:36:08",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/04 17:36:12",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/04 17:36:12",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/07/04 17:36:12",
+        "logdata": "action=LotteryConfig"
+    },
+    {
+        "logtime": "2019/07/04 17:36:12",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/04 17:36:12",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/07/04 17:36:12",
+        "logdata": "action=LotteryUserInfo&userid=120188&time=1562232972&signature=EADEA7C7348D81589FC51671F9E10EDF"
+    },
+    {
+        "logtime": "2019/07/04 17:36:18",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/TableLay...\"]:130: attempt to index global 'MultiPlatform' (a nil value)\nstack traceback:"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "logtime": "2019/07/30 14:28:25",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/30 14:28:25",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 14:28:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:28:25",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/30 14:28:25",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 14:28:29",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/30 14:28:29",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 14:28:29",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:28:29",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 14:28:29",
+        "logdata": "action=GetMobileShareConfig&userid=119893&time=1564468109&signature=65566366222DC6ECBB70F37744A9A46E"
+    },
+    {
+        "logtime": "2019/07/30 14:28:31",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:28:31",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/30 14:28:31",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 14:28:34",
+        "logdata": 6
+    },
+    {
+        "logtime": "2019/07/30 14:28:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:28:34",
+        "logdata": "http://154.48.228.19/download/test//game/yule/redninebattle/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/07/30 14:28:34",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 14:28:41",
+        "logdata": "[string \".\\client/src/app/controllers/ClientUpdate.lua\"]:71: attempt to concatenate local 'oldpath' (a userdata value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/30 14:28:41",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[string \".\\client/src/app/controllers/ClientUpdate.lua\"]:71: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/30 14:28:53",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/30 14:28:53",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 14:28:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:28:53",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/30 14:28:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 14:28:56",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/30 14:28:56",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 14:28:56",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:28:56",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 14:28:56",
+        "logdata": "action=GetMobileShareConfig&userid=119942&time=1564468136&signature=FCC7248D5CC4FEE10F6F692FE95F0ABE"
+    },
+    {
+        "logtime": "2019/07/30 14:28:58",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:28:58",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/30 14:28:58",
+        "logdata": ""
+    }
+]

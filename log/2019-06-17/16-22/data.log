@@ -1,0 +1,61 @@
+[
+    {
+        "logtime": "2019/06/17 16:22:31",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/06/17 16:22:31",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/06/17 16:22:31",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/longfengdou/",
+            "_KindID": "133",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.longfengdou.",
+            "_SortId": 2
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:22:32",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/17 16:22:32",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.249.132.170&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/06/17 16:22:32",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/17 16:22:32",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/longfengdou/",
+            "_KindID": "133",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.longfengdou.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 2
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:22:32",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/06/17 16:22:32",
+        "logdata": "xiuxian/longfengdou/"
+    }
+]

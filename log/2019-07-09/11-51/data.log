@@ -1,0 +1,170 @@
+[
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:06",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:51:07",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 11:51:52",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:322: attempt to index global 'editbox' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/09 11:51:52",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:322: in function <[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:315>"
+    }
+]

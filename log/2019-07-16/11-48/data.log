@@ -1,0 +1,6 @@
+[
+    {
+        "logtime": "2019/07/16 11:48:33",
+        "logdata": "[string \".\\client/src/view/mediator/BankMediator.lua\"]:199: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    }
+]

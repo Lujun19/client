@@ -1,0 +1,72 @@
+[
+    {
+        "logtime": "2019/05/22 16:31:14",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 16:31:14",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 16:31:14",
+        "logdata": {
+            "_ServerResVersion": 6,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/redninebattle/",
+            "_KindID": "109",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.redninebattle.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 12
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:31:15",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 16:31:15",
+        "logdata": 109
+    },
+    {
+        "logtime": "2019/05/22 16:31:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:31:16",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:31:16",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:31:16",
+        "logdata": {
+            "_ServerResVersion": 6,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/redninebattle/",
+            "_KindID": "109",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.redninebattle.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 12
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:31:16",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/05/22 16:31:16",
+        "logdata": "yule/redninebattle/"
+    }
+]

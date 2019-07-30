@@ -1,0 +1,94 @@
+[
+    {
+        "logtime": "2019/07/10 15:12:32",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/10 15:12:32",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 15:12:32",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 15:12:32",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/10 15:12:32",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/10 15:12:41",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/10 15:12:41",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/10 15:12:41",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 15:12:41",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/10 15:12:41",
+        "logdata": "action=GetMobileShareConfig&userid=119899&time=1562742761&signature=12989FAABE9E87601640C36C564E5429"
+    },
+    {
+        "logtime": "2019/07/10 15:12:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 15:12:42",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/10 15:12:42",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/10 15:12:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 15:12:50",
+        "logdata": "http://www.fuannainc.top//WS/Account.ashx"
+    },
+    {
+        "logtime": "2019/07/10 15:12:50",
+        "logdata": "action=getchild&gameid=335244"
+    },
+    {
+        "logtime": "2019/07/10 15:12:54",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 15:12:54",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/10 15:12:54",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/07/10 15:12:54",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/10 15:12:54",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/10 15:12:54",
+        "logdata": "action=getagentpay"
+    },
+    {
+        "logtime": "2019/07/10 15:12:58",
+        "logdata": "[string \".\\client/src/plaza/views/ClientScene.lua\"]:3104: attempt to index field 'WebView' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:167: in function <[string \".\\client/src/plaza/views/ClientScene.lua\"]:165>"
+    }
+]

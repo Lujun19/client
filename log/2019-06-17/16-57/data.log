@@ -1,0 +1,233 @@
+[
+    {
+        "logtime": "2019/06/17 16:57:08",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/06/17 16:57:08",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/06/17 16:57:08",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/kpnew/",
+            "_KindID": "28",
+            "_Type": "yule",
+            "_KindName": "yule.kpnew.",
+            "_SortId": 6
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:57:09",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/06/17 16:57:09",
+        "logdata": 28
+    },
+    {
+        "logtime": "2019/06/17 16:57:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/17 16:57:11",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.249.132.170&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/06/17 16:57:11",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/17 16:57:12",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/kpnew/",
+            "_KindID": "28",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.kpnew.",
+            "nEnterRoomIndex": 2,
+            "nSitTable": 65535,
+            "_SortId": 6
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:57:12",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/06/17 16:57:12",
+        "logdata": "yule/kpnew/"
+    },
+    {
+        "logtime": "2019/06/17 16:57:25",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/06/17 16:57:25",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/06/17 16:57:25",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/longfengdou/",
+            "_KindID": "133",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.longfengdou.",
+            "_SortId": 2
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:57:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/06/17 16:57:25",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.249.132.170&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/06/17 16:57:25",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/06/17 16:57:26",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/longfengdou/",
+            "_KindID": "133",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.longfengdou.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 2
+        }
+    },
+    {
+        "logtime": "2019/06/17 16:57:26",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/06/17 16:57:26",
+        "logdata": "xiuxian/longfengdou/"
+    },
+    {
+        "logtime": "2019/06/17 16:57:33",
+        "logdata": [
+            {
+                "main": 3,
+                "kindid": 28,
+                "len": 5,
+                "sub": 4
+            },
+            {
+                "main": 1,
+                "kindid": "133",
+                "len": 213,
+                "sub": 2
+            },
+            {
+                "main": 3,
+                "kindid": "133",
+                "len": 70,
+                "sub": 3
+            },
+            {
+                "main": 100,
+                "kindid": "133",
+                "len": 9,
+                "sub": 1
+            },
+            {
+                "main": 200,
+                "kindid": "133",
+                "len": 9,
+                "sub": 1
+            }
+        ]
+    },
+    {
+        "logtime": "2019/06/17 16:57:47",
+        "logdata": [
+            {
+                "main": 1,
+                "kindid": "133",
+                "len": 213,
+                "sub": 2
+            },
+            {
+                "main": 3,
+                "kindid": "133",
+                "len": 70,
+                "sub": 3
+            },
+            {
+                "main": 100,
+                "kindid": "133",
+                "len": 9,
+                "sub": 1
+            },
+            {
+                "main": 200,
+                "kindid": "133",
+                "len": 9,
+                "sub": 1
+            },
+            {
+                "main": 200,
+                "kindid": "133",
+                "len": 9,
+                "sub": 1
+            }
+        ]
+    },
+    {
+        "logtime": "2019/06/17 16:57:48",
+        "logdata": [
+            {
+                "main": 3,
+                "kindid": "133",
+                "len": 70,
+                "sub": 3
+            },
+            {
+                "main": 100,
+                "kindid": "133",
+                "len": 9,
+                "sub": 1
+            },
+            {
+                "main": 200,
+                "kindid": "133",
+                "len": 9,
+                "sub": 1
+            },
+            {
+                "main": 200,
+                "kindid": "133",
+                "len": 9,
+                "sub": 1
+            },
+            {
+                "main": 200,
+                "kindid": "133",
+                "len": 9,
+                "sub": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "logtime": "2019/05/18 16:45:31",
+        "logdata": "onWillViewEnter"
+    },
+    {
+        "logtime": "2019/05/18 16:45:39",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/UserInfo...\"]:611: attempt to index global 'MultiPlatform' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/05/18 16:45:42",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/05/18 16:45:42",
+        "logdata": "onWillViewExit"
+    },
+    {
+        "logtime": "2019/05/18 16:45:42",
+        "logdata": "exitViewUserInfo"
+    }
+]

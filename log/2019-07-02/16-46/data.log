@@ -1,0 +1,50 @@
+[
+    {
+        "logtime": "2019/07/02 16:46:00",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:00",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:00",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:01",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:01",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:01",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:01",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: in function <[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:936>"
+    },
+    {
+        "logtime": "2019/07/02 16:46:02",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:02",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:02",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:03",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/02 16:46:03",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:937: attempt to index field 'Button_Stop' (a nil value)\nstack traceback:"
+    }
+]

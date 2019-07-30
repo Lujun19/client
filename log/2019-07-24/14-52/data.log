@@ -1,0 +1,58 @@
+[
+    {
+        "logtime": "2019/07/24 14:52:02",
+        "logdata": "ASSERT FAILED ON LUA EXECUTE: Invalid name\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:117: in function 'execute'\n\t[string \".\\framework/puremvc/core/Controller.lua\"]:123: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\framework/puremvc/patterns/observer/Notifie...\"]:64: in function 'sendNotification'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:216: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:898: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/24 14:52:49",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/24 14:52:49",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 14:52:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:52:49",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/24 14:52:49",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/24 14:52:51",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 14:52:51",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 14:52:51",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:52:51",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 14:52:51",
+        "logdata": "action=GetMobileShareConfig&userid=119940&time=1563951171&signature=578B7B58C87A619E757BDCDBAF6C7BA9"
+    },
+    {
+        "logtime": "2019/07/24 14:52:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:52:53",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/24 14:52:53",
+        "logdata": ""
+    }
+]

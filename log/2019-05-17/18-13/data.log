@@ -1,0 +1,40 @@
+[
+    {
+        "logtime": "2019/05/17 18:13:34",
+        "logdata": [
+            {
+                "main": 6,
+                "kindid": 109,
+                "len": 70,
+                "sub": 8
+            },
+            {
+                "main": 6,
+                "kindid": 109,
+                "len": 8,
+                "sub": 4
+            }
+        ]
+    },
+    {
+        "logtime": "2019/05/17 18:13:34",
+        "logdata": [
+            {
+                "main": 6,
+                "kindid": 109,
+                "len": 70,
+                "sub": 8
+            },
+            {
+                "main": 6,
+                "kindid": 109,
+                "len": 8,
+                "sub": 4
+            }
+        ]
+    },
+    {
+        "logtime": "2019/05/17 18:13:34",
+        "logdata": "[string \".\\client/src/plaza/views/ClientScene.lua\"]:802: attempt to call method 'queryTaskInfo' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:60: in function 'onSocketError'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:125: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:90: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:89>"
+    }
+]

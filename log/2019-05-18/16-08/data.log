@@ -1,0 +1,38 @@
+[
+    {
+        "logtime": "2019/05/18 16:08:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 16:08:02",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/18 16:08:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 16:08:05",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 16:08:05",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/05/18 16:08:05",
+        "logdata": "action=LotteryConfig"
+    },
+    {
+        "logtime": "2019/05/18 16:08:05",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 16:08:05",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/05/18 16:08:05",
+        "logdata": "action=LotteryUserInfo&userid=119891&time=1558166885&signature=63978B2457E1728D1D4986F39F9A8C7F"
+    }
+]

@@ -1,0 +1,436 @@
+[
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:36",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:37",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 13:32:38",
+        "logdata": "[string \".\\client/src/model/base/Context.lua\"]:96: context already has parent\nstack traceback:\n\t[string \".\\client/src/model/base/Context.lua\"]:96: in function 'pushContext'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:263: in function 'handler'\n\t[s

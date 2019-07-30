@@ -1,0 +1,154 @@
+[
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.107.65&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/16 17:22:00",
+        "logdata": "action=GetMobileShareConfig&userid=120793&time=1557998520&signature=0B74A8ACF2647030F3AE219F869EE35A"
+    },
+    {
+        "logtime": "2019/05/16 17:22:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:02",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/16 17:22:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/16 17:22:05",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:179: [string \".\\client/src/controller/command/LoadViewComma...\"]:252: aready has same context name, please check\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:179: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseScene.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseScene.lua\"]:97: in function 'exitViewFinished'\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:2224: in function 'onWillViewExit'\n\t[string \".\\view/base/BaseScene.lua\"]:82: in function 'willViewExit'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:182: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseScene.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseScene.lua\"]:56: in function 'unLoadFinished'\n\t[string \".\\view/base/BaseScene.lua\"]:50: in function <[string \".\\view/base/BaseScene.lua\"]:49>"
+    },
+    {
+        "logtime": "2019/05/16 17:22:24",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/16 17:22:24",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/05/16 17:22:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:25",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/16 17:22:25",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/16 17:22:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:30",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.107.65&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/16 17:22:30",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/16 17:22:30",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/16 17:22:30",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/05/16 17:22:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:30",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/16 17:22:30",
+        "logdata": "action=GetMobileShareConfig&userid=120819&time=1557998550&signature=5855D544CBCB1297E8B6EF0365D6AAFD"
+    },
+    {
+        "logtime": "2019/05/16 17:22:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:42",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/16 17:22:42",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/16 17:22:50",
+        "logdata": "[string \".\\client/src/plaza/views/LogonScene.lua\"]:565: attempt to index field '_logonFrame' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:324: in function <[string \".\\app/models/AppDF.lua\"]:281>"
+    },
+    {
+        "logtime": "2019/05/16 17:22:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:52",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/16 17:22:52",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/05/16 17:22:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/16 17:22:52",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/16 17:22:52",
+        "logdata": "action=getagentpay"
+    }
+]

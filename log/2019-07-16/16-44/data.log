@@ -1,0 +1,170 @@
+[
+    {
+        "logtime": "2019/07/16 16:44:30",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/16 16:44:30",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 16:44:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 16:44:30",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/16 16:44:30",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 16:44:32",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/16 16:44:32",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 16:44:32",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 16:44:32",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/16 16:44:32",
+        "logdata": "action=GetMobileShareConfig&userid=119934&time=1563266672&signature=54F049B254DBBC67CEA17EA165F75244"
+    },
+    {
+        "logtime": "2019/07/16 16:44:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 16:44:34",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/16 16:44:34",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 16:44:37",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/16 16:44:37",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/16 16:44:37",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowxz/",
+            "_KindID": "302",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowxz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/07/16 16:44:37",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/16 16:44:37",
+        "logdata": 302
+    },
+    {
+        "logtime": "2019/07/16 16:44:45",
+        "logdata": "[string \".\\client/src/view/mediator/ViewMediator.lua\"]:114: module 'game.yule.sparrowxz.src.views.GameLayer' not found:\n\tno field package.preload['game.yule.sparrowxz.src.views.GameLayer']\n\tno file '.\\game\\yule\\sparrowxz\\src\\views\\GameLayer.lua'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\lua\\game\\yule\\sparrowxz\\src\\views\\GameLayer.lua'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\lua\\game\\yule\\sparrowxz\\src\\views\\GameLayer\\init.lua'\n\tno file '.\\game\\yule\\sparrowxz\\src\\views\\GameLayer.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\game\\yule\\sparrowxz\\src\\views\\GameLayer.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\loadall.dll'\n\tno file '.\\game.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\game.dll'\n\tno file 'D:\\old\\qipaiv1client\\Debug.win32\\loadall.dll'\nstack traceback:\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:114: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:620: in function 'LoadGameView'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:738: in function 'onSocketUserStatus'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:323: in function 'onSocketUserEvent'\n\t[string \".\\client/src/plaza/models/GameFrameEngine.lua\"]:113: in function 'onSocketEvent'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:141: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:97: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:96>"
+    },
+    {
+        "logtime": "2019/07/16 16:44:48",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/16 16:44:48",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 16:44:48",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 16:44:48",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/16 16:44:48",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 16:44:51",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/16 16:44:51",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 16:44:51",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 16:44:51",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/16 16:44:51",
+        "logdata": "action=GetMobileShareConfig&userid=119908&time=1563266691&signature=312D92B2141F21FCCFE0A1BACA1184DB"
+    },
+    {
+        "logtime": "2019/07/16 16:44:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 16:44:52",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/16 16:44:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 16:44:56",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/16 16:44:56",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/16 16:44:56",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowxz/",
+            "_KindID": "302",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowxz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/07/16 16:44:56",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/16 16:44:56",
+        "logdata": 302
+    }
+]

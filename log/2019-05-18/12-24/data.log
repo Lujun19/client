@@ -1,0 +1,36 @@
+[
+    {
+        "logtime": "2019/05/18 12:24:38",
+        "logdata": [
+            {
+                "main": 6,
+                "kindid": 109,
+                "len": 70,
+                "sub": 8
+            },
+            {
+                "main": 6,
+                "kindid": 109,
+                "len": 8,
+                "sub": 4
+            }
+        ]
+    },
+    {
+        "logtime": "2019/05/18 12:24:38",
+        "logdata": [
+            {
+                "main": 6,
+                "kindid": 109,
+                "len": 70,
+                "sub": 8
+            },
+            {
+                "main": 6,
+                "kindid": 109,
+                "len": 8,
+                "sub": 4
+            }
+        ]
+    }
+]

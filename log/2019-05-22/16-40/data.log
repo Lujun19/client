@@ -1,0 +1,656 @@
+[
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 3,
+            "_Module": "yule/oxbattle/",
+            "_KindID": "104",
+            "_Type": "yule",
+            "_KindName": "yule.oxbattle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=171.13.133.113&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.58.118.115&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=210.36.58.48&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=139.213.43.194&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=182.91.50.57&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=139.208.80.149&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=171.9.154.2&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=182.87.212.83&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=210.46.203.96&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=222.64.87.46&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=139.198.148.128&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=106.80.152.30&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=36.58.200.151&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=106.91.133.243&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=139.207.160.239&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=123.232.193.136&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=210.34.171.193&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=61.237.92.129&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=182.85.69.182&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=182.80.48.246&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=182.86.204.138&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=61.234.24.161&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=139.204.203.67&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=123.232.131.20&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=61.234.248.2&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=222.63.255.210&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=210.31.171.214&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=210.46.23.121&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=106.88.53.251&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=222.94.135.174&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=171.9.154.2&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=222.63.255.210&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=61.234.248.2&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=139.198.148.128&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=210.31.171.214&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:09",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=139.207.160.239&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=210.34.171.193&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=222.63.255.210&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=139.198.148.128&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=61.234.248.2&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=139.207.160.239&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=171.9.154.2&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 3,
+            "_Module": "yule/oxbattle/",
+            "_KindID": "104",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.oxbattle.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/05/22 16:40:10",
+        "logdata": "yule/oxbattle/"
+    },
+    {
+        "logtime": "2019/05/22 16:40:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:11",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=210.31.171.214&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:11",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:11",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=210.34.171.193&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:11",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:37",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 16:40:37",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 16:40:37",
+        "logdata": {
+            "_ServerResVersion": 6,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/redninebattle/",
+            "_KindID": "109",
+            "_Type": "yule",
+            "_KindName": "yule.redninebattle.",
+            "_SortId": 12
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:40:38",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 16:40:38",
+        "logdata": 109
+    },
+    {
+        "logtime": "2019/05/22 16:40:39",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 16:40:39",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 16:40:39",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 16:40:40",
+        "logdata": {
+            "_ServerResVersion": 6,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/redninebattle/",
+            "_KindID": "109",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.redninebattle.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 12
+        }
+    },
+    {
+        "logtime": "2019/05/22 16:40:40",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/05/22 16:40:40",
+        "logdata": "yule/redninebattle/"
+    }
+]

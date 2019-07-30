@@ -1,0 +1,358 @@
+[
+    {
+        "logtime": "2019/07/08 19:52:01",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/08 19:52:01",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/08 19:52:01",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:52:01",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/08 19:52:01",
+        "logdata": "action=GetMobileShareConfig&userid=119890&time=1562586721&signature=75B6B522C22E859380D4E47CD0B0C8F3"
+    },
+    {
+        "logtime": "2019/07/08 19:52:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:52:02",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/08 19:52:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:13",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:14",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:52:40",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:52:40",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:407: in function 'onSocketError'\n\t[string \".\\app/models/AppDF.lua\"]:452: in function <[string \".\\app/models/AppDF.lua\"]:415>"
+    },
+    {
+        "logtime": "2019/07/08 19:52:41",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:52:42",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:52:45",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/08 19:52:45",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/08 19:52:45",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:52:45",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/08 19:52:45",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/08 19:52:47",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/08 19:52:47",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/08 19:52:47",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:52:47",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/08 19:52:47",
+        "logdata": "action=GetMobileShareConfig&userid=119922&time=1562586767&signature=961E8D45C5992E273249528CAE61BAFD"
+    },
+    {
+        "logtime": "2019/07/08 19:52:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:52:49",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/08 19:52:49",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:52:52",
+        "logdata": "string"
+    }
+]

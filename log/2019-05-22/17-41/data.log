@@ -1,0 +1,76 @@
+[
+    {
+        "logtime": "2019/05/22 17:41:21",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:41:21",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 17:41:21",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:41:21",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/22 17:41:21",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 17:41:21",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:41:21",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 17:41:21",
+        "logdata": "action=GetMobileShareConfig&userid=119748&time=1558518081&signature=52CC0AE2F04A164407CDDA70D29457F8"
+    },
+    {
+        "logtime": "2019/05/22 17:41:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:41:24",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/22 17:41:24",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:41:31",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 17:41:31",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 17:41:31",
+        "logdata": {
+            "_ServerResVersion": 1,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowxz/",
+            "_KindID": "302",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowxz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:41:31",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 17:41:31",
+        "logdata": 302
+    }
+]

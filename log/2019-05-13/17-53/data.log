@@ -1,0 +1,491 @@
+[
+    {
+        "logtime": "2019/05/13 17:53:04",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 17:53:04",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.80.214&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/13 17:53:04",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 17:53:04",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/13 17:53:04",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/13 17:53:04",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 17:53:04",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/13 17:53:04",
+        "logdata": "action=GetMobileShareConfig&userid=120786&time=1557741184&signature=E879D09663FDD4BAF975693377A76E87"
+    },
+    {
+        "logtime": "2019/05/13 17:53:07",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 17:53:07",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/13 17:53:07",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 17:53:13",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:13",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:13",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/zhongfabai/",
+            "_KindID": "105",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.zhongfabai.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:15",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:15",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:15",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/zhongfabai/",
+            "_KindID": "105",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.zhongfabai.",
+            "nEnterRoomIndex": 1,
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/zhongfabai/",
+            "_KindID": "105",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.zhongfabai.",
+            "nEnterRoomIndex": 1,
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/zhongfabai/",
+            "_KindID": "105",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.zhongfabai.",
+            "nEnterRoomIndex": 1,
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/zhongfabai/",
+            "_KindID": "105",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.zhongfabai.",
+            "nEnterRoomIndex": 1,
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:16",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/zhongfabai/",
+            "_KindID": "105",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.zhongfabai.",
+            "nEnterRoomIndex": 1,
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:17",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:17",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:17",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/zhongfabai/",
+            "_KindID": "105",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.zhongfabai.",
+            "nEnterRoomIndex": 1,
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:19",
+        "logdata": {}
+    },
+    {
+        "logtime": "2019/05/13 17:53:20",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:20",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:20",
+        "logdata": {
+            "_ServerResVersion": 6,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/redninebattle/",
+            "_KindID": "109",
+            "_Type": "yule",
+            "_KindName": "yule.redninebattle.",
+            "_SortId": 12
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:20",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/13 17:53:20",
+        "logdata": 109
+    },
+    {
+        "logtime": "2019/05/13 17:53:22",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:22",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:22",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "_KindName": "yule.oxsixex.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:22",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/13 17:53:22",
+        "logdata": 36
+    },
+    {
+        "logtime": "2019/05/13 17:53:24",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:24",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:24",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:24",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/13 17:53:25",
+        "logdata": 202
+    },
+    {
+        "logtime": "2019/05/13 17:53:27",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:27",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:27",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/kpnew/",
+            "_KindID": "28",
+            "_Type": "yule",
+            "_KindName": "yule.kpnew.",
+            "_SortId": 6
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:27",
+        "logdata": [
+            {
+                "main": 1,
+                "kindid": "105",
+                "len": 213,
+                "sub": 2
+            }
+        ]
+    },
+    {
+        "logtime": "2019/05/13 17:53:27",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/13 17:53:27",
+        "logdata": 28
+    },
+    {
+        "logtime": "2019/05/13 17:53:29",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:29",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:29",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/kpnew/",
+            "_KindID": "28",
+            "_Type": "yule",
+            "_KindName": "yule.kpnew.",
+            "_SortId": 6
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:29",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/13 17:53:29",
+        "logdata": 28
+    },
+    {
+        "logtime": "2019/05/13 17:53:32",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:32",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:32",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 3,
+            "_Module": "yule/oxbattle/",
+            "_KindID": "104",
+            "_Type": "yule",
+            "_KindName": "yule.oxbattle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:32",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:32",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:32",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 3,
+            "_Module": "yule/oxbattle/",
+            "_KindID": "104",
+            "_Type": "yule",
+            "_KindName": "yule.oxbattle.",
+            "nEnterRoomIndex": 1,
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:33",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:33",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:33",
+        "logdata": {
+            "_ServerResVersion": 4,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 3,
+            "_Module": "yule/oxbattle/",
+            "_KindID": "104",
+            "_Type": "yule",
+            "_KindName": "yule.oxbattle.",
+            "nEnterRoomIndex": 1,
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:34",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:34",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:34",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/longfengdou/",
+            "_KindID": "133",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.longfengdou.",
+            "_SortId": 2
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:36",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:53:36",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:53:36",
+        "logdata": {
+            "_ServerResVersion": 1,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowhz/",
+            "_KindID": "389",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowhz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:53:36",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/13 17:53:36",
+        "logdata": 389
+    }
+]

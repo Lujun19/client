@@ -1,0 +1,70 @@
+[
+    {
+        "logtime": "2019/05/14 16:21:02",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/14 16:21:02",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/14 16:21:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/14 16:21:03",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/14 16:21:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/14 16:21:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/14 16:21:42",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.107.103&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/14 16:21:42",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/14 16:21:42",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/14 16:21:42",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/14 16:21:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/14 16:21:42",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/14 16:21:42",
+        "logdata": "action=GetMobileShareConfig&userid=120792&time=1557822102&signature=8E7D9EE26CE013708F3BC7DA4A9D7432"
+    },
+    {
+        "logtime": "2019/05/14 16:21:45",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/14 16:21:45",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/14 16:21:45",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/14 16:21:51",
+        "logdata": "[string \".\\client/src/plaza/views/LogonScene.lua\"]:565: attempt to index field '_logonFrame' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:324: in function <[string \".\\app/models/AppDF.lua\"]:281>"
+    }
+]

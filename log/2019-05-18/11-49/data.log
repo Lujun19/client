@@ -1,0 +1,70 @@
+[
+    {
+        "logtime": "2019/05/18 11:49:14",
+        "logdata": "[string \".\\client/src/plaza/views/ClientScene.luac\"]:802: attempt to call method 'queryTaskInfo' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:60: in function 'onSocketError'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:125: in function 'onSocketCallBack'\n\t[string \".\\client/src/plaza/models/BaseFrame.lua\"]:90: in function <[string \".\\client/src/plaza/models/BaseFrame.lua\"]:89>"
+    },
+    {
+        "logtime": "2019/05/18 11:49:41",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/18 11:49:41",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 11:49:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:49:42",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/18 11:49:42",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 11:49:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:49:43",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.199&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/18 11:49:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/18 11:49:43",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/18 11:49:43",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/18 11:49:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:49:43",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/18 11:49:43",
+        "logdata": "action=GetMobileShareConfig&userid=119901&time=1558151383&signature=AE3CFF9BEAC6FAB4F7FA5B4BB7BE52F3"
+    },
+    {
+        "logtime": "2019/05/18 11:49:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/18 11:49:46",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/18 11:49:46",
+        "logdata": ""
+    }
+]

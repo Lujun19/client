@@ -1,0 +1,75 @@
+[
+    {
+        "logtime": "2019/07/02 14:20:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 14:20:30",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/02 14:20:30",
+        "logdata": "action=GetScoreInfo&userid=119947&time=1562048430&signature=99C700635F984572585B3EDCA26D47F7"
+    },
+    {
+        "logtime": "2019/07/02 14:20:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 14:20:30",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 14:20:30",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 14:20:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 14:20:30",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 14:20:30",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 14:20:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/02 14:20:36",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/02 14:20:36",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/02 14:20:37",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.shuiguolaba.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/02 14:20:37",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/02 14:20:37",
+        "logdata": "xiuxian/shuiguolaba/"
+    }
+]

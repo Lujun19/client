@@ -1,0 +1,245 @@
+[
+    {
+        "logtime": "2019/07/16 14:58:42",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/16 14:58:42",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 14:58:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:58:42",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/16 14:58:42",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 14:58:44",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/16 14:58:44",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 14:58:44",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:58:44",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/16 14:58:44",
+        "logdata": "action=GetMobileShareConfig&userid=119900&time=1563260324&signature=704F43900F6A853C50009306AEC0C58F"
+    },
+    {
+        "logtime": "2019/07/16 14:58:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 14:58:46",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/16 14:58:46",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 14:58:50",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/16 14:58:50",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/16 14:58:50",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/16 14:58:50",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/16 14:58:50",
+        "logdata": 202
+    },
+    {
+        "logtime": "2019/07/16 14:58:52",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "nSitChair": 65535,
+            "_KindName": "qipai.landnoshuffle.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/16 14:58:52",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/16 14:58:52",
+        "logdata": "qipai/landnoshuffle/"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 14:58:54",
+        "logdata": "double"
+    }
+]

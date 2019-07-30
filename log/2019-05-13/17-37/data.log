@@ -1,0 +1,140 @@
+[
+    {
+        "logtime": "2019/05/13 17:37:09",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:37:09",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:37:09",
+        "logdata": {
+            "_ServerResVersion": 8,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/zhajinhua/",
+            "_KindID": "6",
+            "_Type": "yule",
+            "_KindName": "yule.zhajinhua.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:37:09",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/13 17:37:09",
+        "logdata": 6
+    },
+    {
+        "logtime": "2019/05/13 17:37:12",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:37:12",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:37:12",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/longfengdou/",
+            "_KindID": "133",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.longfengdou.",
+            "_SortId": 2
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:37:14",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/13 17:37:14",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/13 17:37:14",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "xiuxian/baccaratnew/",
+            "_KindID": "122",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.baccaratnew.",
+            "_SortId": 3
+        }
+    },
+    {
+        "logtime": "2019/05/13 17:37:20",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/13 17:37:20",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/13 17:37:21",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 17:37:21",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/13 17:37:21",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 17:37:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 17:37:25",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.80.214&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/13 17:37:25",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/13 17:37:25",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/13 17:37:25",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/13 17:37:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 17:37:25",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/13 17:37:25",
+        "logdata": "action=GetMobileShareConfig&userid=120784&time=1557740245&signature=CF8239971FD9C45172A7AF7CF1D84292"
+    },
+    {
+        "logtime": "2019/05/13 17:37:28",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/13 17:37:28",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/13 17:37:28",
+        "logdata": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "logtime": "2019/05/18 16:42:33",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/18 16:42:33",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/18 16:42:33",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "_KindName": "yule.oxsixex.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/18 16:42:33",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/18 16:42:33",
+        "logdata": 36
+    }
+]

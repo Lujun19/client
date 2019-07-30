@@ -1,0 +1,124 @@
+[
+    {
+        "logtime": "2019/07/03 18:34:08",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/03 18:34:08",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/03 18:34:08",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 18:34:08",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/03 18:34:08",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 18:34:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 18:34:11",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.49.18&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/03 18:34:11",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 18:34:11",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/03 18:34:11",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/03 18:34:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 18:34:11",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/03 18:34:11",
+        "logdata": "action=GetMobileShareConfig&userid=120188&time=1562150051&signature=563878CB97203A1C76BE4D6D6AEEBA03"
+    },
+    {
+        "logtime": "2019/07/03 18:34:13",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 18:34:13",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/03 18:34:13",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 18:34:16",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/03 18:34:16",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/03 18:34:16",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "_KindName": "xiuxian.shuiguolaba.",
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/03 18:34:16",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/03 18:34:16",
+        "logdata": 406
+    },
+    {
+        "logtime": "2019/07/03 18:34:20",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 18:34:20",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/03 18:34:20",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/07/03 18:34:20",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 18:34:20",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/03 18:34:20",
+        "logdata": "action=getagentpay"
+    },
+    {
+        "logtime": "2019/07/03 18:34:23",
+        "logdata": "normal_to_agent_up"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "logtime": "2019/05/17 16:37:41",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/17 16:37:42",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 16:37:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:37:42",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 16:37:42",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 16:37:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:37:43",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 16:37:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 16:37:43",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 16:37:43",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 16:37:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:37:43",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:37:43",
+        "logdata": "action=GetMobileShareConfig&userid=119907&time=1558082263&signature=9B63C7864EDB15492A3918DE057AB53A"
+    },
+    {
+        "logtime": "2019/05/17 16:37:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:37:46",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 16:37:46",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 16:37:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:37:49",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:37:49",
+        "logdata": "action=LotteryConfig"
+    },
+    {
+        "logtime": "2019/05/17 16:37:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:37:49",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:37:49",
+        "logdata": "action=LotteryUserInfo&userid=119907&time=1558082269&signature=55CD8DAFF3D9AC0C28B83B8FEFD962E1"
+    },
+    {
+        "logtime": "2019/05/17 16:37:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 16:37:50",
+        "logdata": "http://www.fuannainc.top//WS/Lottery.ashx"
+    },
+    {
+        "logtime": "2019/05/17 16:37:50",
+        "logdata": "action=LotteryStart&userid=119907&time=1558082270&signature=A854F1765F2D1EF13AC4D49BA2E00807"
+    }
+]

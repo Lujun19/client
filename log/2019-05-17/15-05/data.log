@@ -1,0 +1,562 @@
+[
+    {
+        "logtime": "2019/05/17 15:05:17",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/17 15:05:17",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 15:05:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:18",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 15:05:18",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 15:05:19",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:19",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 15:05:19",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 15:05:19",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 15:05:19",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 15:05:19",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:19",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 15:05:19",
+        "logdata": "action=GetMobileShareConfig&userid=119915&time=1558076719&signature=B299BB9ABC4237FCE93678DDD484FB21"
+    },
+    {
+        "logtime": "2019/05/17 15:05:23",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:23",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 15:05:23",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 15:05:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:24",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 15:05:24",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 15:05:24",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 15:05:24",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 15:05:24",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:24",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 15:05:24",
+        "logdata": "action=GetMobileShareConfig&userid=119909&time=1558076724&signature=370AA5374EAE2B675C14F779D8D58383"
+    },
+    {
+        "logtime": "2019/05/17 15:05:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:25",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 15:05:25",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:30",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:31",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:32",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:33",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[C]: in function 'assert'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:33",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:33",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:33",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:33",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:33",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:33",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:33",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:33",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:34",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:35",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:35",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:35",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:35",
+        "logdata": "[string \".\\client/src/controller/command/LoadViewComma...\"]:266: assertion failed!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:266: in function 'handler'\n\t[string \".\\framework/notify/event.lua\"]:167: in function 'call_handlers'\n\t[string \".\\framework/notify/event.lua\"]:305: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:135: in function 'emit'\n\t[string \".\\view/base/BaseLayer.lua\"]:37: in function 'loadFinished'\n\t[string \".\\view/base/BaseLayer.lua\"]:31: in function <[string \".\\view/base/BaseLayer.lua\"]:30>"
+    },
+    {
+        "logtime": "2019/05/17 15:05:40",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/17 15:05:40",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 15:05:41",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:41",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 15:05:41",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 15:05:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:42",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 15:05:42",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 15:05:42",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 15:05:42",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 15:05:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:42",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 15:05:42",
+        "logdata": "action=GetMobileShareConfig&userid=119930&time=1558076742&signature=6CBF0DACE9F8C879ACC1976BFF053981"
+    },
+    {
+        "logtime": "2019/05/17 15:05:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:46",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 15:05:47",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 15:05:47",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:47",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 15:05:47",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 15:05:47",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 15:05:47",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 15:05:47",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:47",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 15:05:47",
+        "logdata": "action=GetMobileShareConfig&userid=119898&time=1558076747&signature=0197E092C7F81F274FC681F58C925794"
+    },
+    {
+        "logtime": "2019/05/17 15:05:48",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 15:05:48",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 15:05:49",
+        "logdata": ""
+    }
+]

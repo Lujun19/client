@@ -1,0 +1,115 @@
+[
+    {
+        "logtime": "2019/07/03 14:26:01",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:956: attempt to perform arithmetic on field 'time' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=58.23.48.188&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:956: attempt to perform arithmetic on field 'time' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": {
+            "_ServerResVersion": 10,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "xiuxian/shuiguolaba/",
+            "_KindID": "406",
+            "_Type": "xiuxian",
+            "nSitChair": 65535,
+            "_KindName": "xiuxian.shuiguolaba.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 0
+        }
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/03 14:26:02",
+        "logdata": "xiuxian/shuiguolaba/"
+    },
+    {
+        "logtime": "2019/07/03 14:26:04",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:956: attempt to perform arithmetic on field 'time' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/03 14:26:05",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:956: attempt to perform arithmetic on field 'time' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/03 14:26:06",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:956: attempt to perform arithmetic on field 'time' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/03 14:26:09",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/03 14:26:09",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/03 14:26:09",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 14:26:09",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/03 14:26:09",
+        "logdata": ""
+    }
+]

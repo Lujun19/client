@@ -1,0 +1,6 @@
+[
+    {
+        "logtime": "2019/07/24 14:15:29",
+        "logdata": "[string \".\\client/src/plaza/views/ClientScene.lua\"]:1189: attempt to index local 'radioGroupLayout' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:1170: in function 'onEnterTransitionFinish'\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:235: in function <[string \".\\client/src/controller/command/LoadViewComma...\"]:229>"
+    }
+]

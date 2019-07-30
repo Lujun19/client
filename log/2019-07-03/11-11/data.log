@@ -1,0 +1,14 @@
+[
+    {
+        "logtime": "2019/07/03 11:11:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/03 11:11:52",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/03 11:11:52",
+        "logdata": "action=GetScoreInfo&userid=120187&time=1562123512&signature=42DF34D3CE81A093B9D7F9F0FBF1A7ED"
+    }
+]

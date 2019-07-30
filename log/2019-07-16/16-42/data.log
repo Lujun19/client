@@ -1,0 +1,100 @@
+[
+    {
+        "logtime": "2019/07/16 16:42:44",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/16 16:42:44",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 16:42:44",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 16:42:44",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/16 16:42:44",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 16:42:46",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/16 16:42:46",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 16:42:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 16:42:46",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/16 16:42:46",
+        "logdata": "action=GetMobileShareConfig&userid=119748&time=1563266566&signature=D4392F99E26294001C06793A4608F33B"
+    },
+    {
+        "logtime": "2019/07/16 16:42:48",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 16:42:48",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/16 16:42:48",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 16:42:52",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/16 16:42:52",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/16 16:42:52",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowxz/",
+            "_KindID": "302",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowxz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/07/16 16:42:52",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/16 16:42:52",
+        "logdata": 302
+    },
+    {
+        "logtime": "2019/07/16 16:42:53",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 16:42:53",
+        "logdata": "int"
+    },
+    {
+        "logtime": "2019/07/16 16:42:53",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/16 16:42:53",
+        "logdata": "string"
+    }
+]

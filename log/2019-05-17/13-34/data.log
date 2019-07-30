@@ -1,0 +1,120 @@
+[
+    {
+        "logtime": "2019/05/17 13:34:27",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/17 13:34:27",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 13:34:28",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 13:34:28",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/17 13:34:28",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 13:34:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 13:34:30",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=113.77.83.165&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/17 13:34:30",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 13:34:30",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/17 13:34:30",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/17 13:34:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 13:34:30",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 13:34:30",
+        "logdata": "action=GetMobileShareConfig&userid=119932&time=1558071270&signature=7A610515FA5484E7039D836F8761C82B"
+    },
+    {
+        "logtime": "2019/05/17 13:34:33",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 13:34:33",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/17 13:34:33",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/17 13:34:41",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 13:34:41",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 13:34:41",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/05/17 13:34:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/17 13:34:42",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/17 13:34:42",
+        "logdata": "action=getagentpay"
+    },
+    {
+        "logtime": "2019/05/17 13:34:50",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/17 13:34:50",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/17 13:34:50",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "_KindName": "yule.oxsixex.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/17 13:34:51",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/17 13:34:51",
+        "logdata": 36
+    }
+]

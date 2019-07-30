@@ -1,0 +1,50 @@
+[
+    {
+        "logtime": "2019/07/24 17:01:06",
+        "logdata": "error loading module 'client.src.plaza.views.ClientScene' from file '.\\client\\src\\plaza\\views\\ClientScene.lua':\n\t.\\client\\src\\plaza\\views\\ClientScene.lua:1588: unexpected symbol near '='\nstack traceback:\n\t[C]: in function 'require'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:83: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:898: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/24 17:01:26",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/24 17:01:27",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 17:01:27",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 17:01:27",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/24 17:01:27",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/24 17:01:30",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 17:01:30",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 17:01:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 17:01:30",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 17:01:30",
+        "logdata": "action=GetMobileShareConfig&userid=119940&time=1563958890&signature=B4F452C2844164B136DF3F94D931CB61"
+    },
+    {
+        "logtime": "2019/07/24 17:01:33",
+        "logdata": "error loading module 'client.src.plaza.views.ClientScene' from file '.\\client\\src\\plaza\\views\\ClientScene.lua':\n\t.\\client\\src\\plaza\\views\\ClientScene.lua:182: '=' expected near 'local'\nstack traceback:\n\t[C]: in function 'require'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:83: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:898: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    }
+]

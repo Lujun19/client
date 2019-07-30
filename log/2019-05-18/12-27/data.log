@@ -1,0 +1,6 @@
+[
+    {
+        "logtime": "2019/05/18 12:27:22",
+        "logdata": "[string \".\\client/src/plaza/views/ClientScene.lua\"]:3080: attempt to index field 'KeFuLayer' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:167: in function <[string \".\\client/src/plaza/views/ClientScene.lua\"]:165>"
+    }
+]

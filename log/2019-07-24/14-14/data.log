@@ -1,0 +1,54 @@
+[
+    {
+        "logtime": "2019/07/24 14:14:16",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/24 14:14:16",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 14:14:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:14:16",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/24 14:14:16",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/24 14:14:18",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 14:14:18",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 14:14:18",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:14:18",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 14:14:18",
+        "logdata": "action=GetMobileShareConfig&userid=119944&time=1563948858&signature=DCED56759065D27C89BC56C5522DFC6D"
+    },
+    {
+        "logtime": "2019/07/24 14:14:20",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:14:20",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/24 14:14:20",
+        "logdata": ""
+    }
+]

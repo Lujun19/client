@@ -1,0 +1,44 @@
+[
+    {
+        "logtime": "2019/07/09 15:29:41",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 15:29:41",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/09 15:29:41",
+        "logdata": "action=GetScoreInfo&userid=119900&time=1562657381&signature=AF5A47B9EB1D84F38176A9C671C151F9"
+    },
+    {
+        "logtime": "2019/07/09 15:29:42",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/09 15:29:42",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/09 15:29:42",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/kpnew/",
+            "_KindID": "28",
+            "_Type": "yule",
+            "_KindName": "yule.kpnew.",
+            "_SortId": 6
+        }
+    },
+    {
+        "logtime": "2019/07/09 15:29:42",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/09 15:29:42",
+        "logdata": 28
+    }
+]

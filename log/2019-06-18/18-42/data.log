@@ -1,0 +1,6 @@
+[
+    {
+        "logtime": "2019/06/18 18:42:18",
+        "logdata": "[string \".\\app/models/AppDF.lua\"]:224: bad argument #1 to 'find' (string expected, got nil)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:224: in function 'encodeHtmlData'\n\t[string \".\\app/models/AppDF.lua\"]:202: in function <[string \".\\app/models/AppDF.lua\"]:190>"
+    }
+]

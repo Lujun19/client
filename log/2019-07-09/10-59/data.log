@@ -1,0 +1,206 @@
+[
+    {
+        "logtime": "2019/07/09 10:59:04",
+        "logdata": "error loading module 'client.src.plaza.views.layer.plaza.BankLayer' from file '.\\client\\src\\plaza\\views\\layer\\plaza\\BankLayer.lua':\n\t.\\client\\src\\plaza\\views\\layer\\plaza\\BankLayer.lua:323: '=' expected near '::'\nstack traceback:\n\t[C]: in function 'req'\n\t[string \".\\client/src/plaza/views/ClientScene.lua\"]:16: in main chunk\n\t[C]: in function 'require'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:83: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:898: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/09 10:59:06",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/09 10:59:06",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 10:59:07",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 10:59:07",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/09 10:59:07",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/09 10:59:08",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/09 10:59:08",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 10:59:08",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 10:59:08",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/09 10:59:08",
+        "logdata": "action=GetMobileShareConfig&userid=119752&time=1562641148&signature=7F9F0A10FD4A1BE77526206B931ED609"
+    },
+    {
+        "logtime": "2019/07/09 10:59:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 10:59:10",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/09 10:59:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/09 10:59:21",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/09 10:59:21",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 10:59:21",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 10:59:21",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/09 10:59:21",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/09 10:59:25",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/09 10:59:25",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 10:59:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 10:59:25",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/09 10:59:25",
+        "logdata": "action=GetMobileShareConfig&userid=119935&time=1562641165&signature=01CBCB201213EBB4554E023D81AEC4BA"
+    },
+    {
+        "logtime": "2019/07/09 10:59:26",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 10:59:26",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/09 10:59:26",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 10:59:33",
+        "logdata": "string"
+    }
+]

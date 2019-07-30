@@ -1,0 +1,76 @@
+[
+    {
+        "logtime": "2019/07/16 15:59:53",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/16 15:59:53",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 15:59:54",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 15:59:54",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/16 15:59:54",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 15:59:55",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/16 15:59:55",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/16 15:59:55",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 15:59:55",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/16 15:59:55",
+        "logdata": "action=GetMobileShareConfig&userid=119932&time=1563263995&signature=EEFD55BE8517020BA26CFD17189700AE"
+    },
+    {
+        "logtime": "2019/07/16 15:59:57",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/16 15:59:57",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/16 15:59:57",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/16 15:59:59",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/16 15:59:59",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/16 15:59:59",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "logtime": "2019/05/22 17:40:00",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:40:00",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 17:40:01",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:40:01",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/22 17:40:01",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 17:40:01",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:40:01",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 17:40:01",
+        "logdata": "action=GetMobileShareConfig&userid=119930&time=1558518001&signature=E1205BFA52F5FC3E56164AA243005CCA"
+    },
+    {
+        "logtime": "2019/05/22 17:40:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:40:03",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/22 17:40:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:40:12",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 17:40:12",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 17:40:12",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "_KindName": "yule.oxsixex.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:40:12",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 17:40:12",
+        "logdata": 36
+    },
+    {
+        "logtime": "2019/05/22 17:40:25",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/22 17:40:25",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 17:40:26",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:40:26",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/22 17:40:26",
+        "logdata": ""
+    }
+]

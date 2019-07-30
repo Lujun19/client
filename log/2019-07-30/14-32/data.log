@@ -1,0 +1,70 @@
+[
+    {
+        "logtime": "2019/07/30 14:32:34",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/30 14:32:34",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 14:32:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:32:34",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/30 14:32:34",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 14:32:36",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/30 14:32:36",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 14:32:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:32:36",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 14:32:36",
+        "logdata": "action=GetMobileShareConfig&userid=119906&time=1564468356&signature=E68E3D03E2423CDD8C03E1665AF3CAD0"
+    },
+    {
+        "logtime": "2019/07/30 14:32:38",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:32:38",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/30 14:32:38",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 14:32:42",
+        "logdata": 6
+    },
+    {
+        "logtime": "2019/07/30 14:32:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 14:32:42",
+        "logdata": "http://154.48.228.19/download/test//game/yule/redninebattle/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/07/30 14:32:42",
+        "logdata": ""
+    }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "logtime": "2019/07/02 10:51:05",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:945: Attempt to call a non-callable object.\nstack traceback:\n\t[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:945: in function 'onButtonClickedEvent'\n\t[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:174: in function <[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:167>"
+    }
+]

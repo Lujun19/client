@@ -1,0 +1,133 @@
+[
+    {
+        "logtime": "2019/05/22 17:06:31",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/22 17:06:31",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 17:06:32",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:06:32",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/22 17:06:32",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:06:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:06:34",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 17:06:34",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:06:34",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/22 17:06:34",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/22 17:06:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:06:34",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/22 17:06:34",
+        "logdata": "action=GetMobileShareConfig&userid=119918&time=1558515994&signature=265622E277C561FCD71870A56F82B52D"
+    },
+    {
+        "logtime": "2019/05/22 17:06:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:06:36",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/22 17:06:36",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:06:42",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/22 17:06:42",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/22 17:06:42",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowhz/",
+            "_KindID": "389",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowhz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:06:42",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/05/22 17:06:42",
+        "logdata": 389
+    },
+    {
+        "logtime": "2019/05/22 17:06:44",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/22 17:06:44",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.106.122&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/22 17:06:44",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/22 17:06:44",
+        "logdata": {
+            "_ServerResVersion": 2,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowhz/",
+            "_KindID": "389",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.sparrowhz.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/22 17:06:44",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/05/22 17:06:44",
+        "logdata": "yule/sparrowhz/"
+    }
+]

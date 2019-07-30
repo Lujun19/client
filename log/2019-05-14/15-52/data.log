@@ -1,0 +1,74 @@
+[
+    {
+        "logtime": "2019/05/14 15:52:10",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/05/14 15:52:10",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/14 15:52:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/14 15:52:10",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/05/14 15:52:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/14 15:52:23",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/14 15:52:23",
+        "logdata": "http://apis.juhe.cn/ip/ip2addr?ip=183.53.107.103&key=74bb0395667b8d0588df9ebd6fc36a12"
+    },
+    {
+        "logtime": "2019/05/14 15:52:23",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/14 15:52:23",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/05/14 15:52:23",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/05/14 15:52:23",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/14 15:52:23",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/05/14 15:52:23",
+        "logdata": "action=GetMobileShareConfig&userid=120788&time=1557820343&signature=B869B8A2EAE5C3F892EB0C08ED7708CB"
+    },
+    {
+        "logtime": "2019/05/14 15:52:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/05/14 15:52:25",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/05/14 15:52:25",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/05/14 15:52:37",
+        "logdata": "[string \".\\client/src/plaza/views/LogonScene.lua\"]:565: attempt to index field '_logonFrame' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:324: in function <[string \".\\app/models/AppDF.lua\"]:281>"
+    },
+    {
+        "logtime": "2019/05/14 15:52:37",
+        "logdata": "[string \".\\client/src/plaza/views/LogonScene.lua\"]:565: attempt to index field '_logonFrame' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:324: in function <[string \".\\app/models/AppDF.lua\"]:281>"
+    }
+]

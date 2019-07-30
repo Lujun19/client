@@ -1,0 +1,162 @@
+[
+    {
+        "logtime": "2019/07/09 11:10:15",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:324: attempt to call method 'setPlaceHolder' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/09 11:10:15",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:324: in function <[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:316>"
+    },
+    {
+        "logtime": "2019/07/09 11:10:17",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankLaye...\"]:324: attempt to call method 'setPlaceHolder' (a nil value)\nstack traceback:"
+    },
+    {
+        "logtime": "2019/07/09 11:10:20",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/09 11:10:20",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 11:10:20",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 11:10:20",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/09 11:10:20",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/09 11:10:23",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/09 11:10:23",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/09 11:10:23",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 11:10:23",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/09 11:10:23",
+        "logdata": "action=GetMobileShareConfig&userid=119922&time=1562641823&signature=C484B23E08BC9051CE0BFE662B5DDC9A"
+    },
+    {
+        "logtime": "2019/07/09 11:10:25",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/09 11:10:25",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/09 11:10:25",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/09 11:10:28",
+        "logdata": "string"
+    }
+]

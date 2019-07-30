@@ -1,0 +1,86 @@
+[
+    {
+        "logtime": "2019/07/24 15:41:36",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/24 15:41:36",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 15:41:36",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 15:41:36",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/24 15:41:36",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/24 15:41:38",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 15:41:38",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 15:41:38",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 15:41:38",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 15:41:38",
+        "logdata": "action=GetMobileShareConfig&userid=119914&time=1563954098&signature=4E821AC6562F2B709320836805875C34"
+    },
+    {
+        "logtime": "2019/07/24 15:41:47",
+        "logdata": "ASSERT FAILED ON LUA EXECUTE: textureData can't be empty!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:117: in function 'execute'\n\t[string \".\\framework/puremvc/core/Controller.lua\"]:123: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\framework/puremvc/patterns/observer/Notifie...\"]:64: in function 'sendNotification'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:216: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:898: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/24 15:41:50",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 15:41:50",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 15:41:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 15:41:50",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 15:41:50",
+        "logdata": "action=GetMobileShareConfig&userid=119891&time=1563954110&signature=EC129DB4A13D92AD1DD2F6034E8AC38A"
+    },
+    {
+        "logtime": "2019/07/24 15:41:52",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 15:41:52",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 15:41:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 15:41:52",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 15:41:52",
+        "logdata": "action=GetMobileShareConfig&userid=119898&time=1563954112&signature=4D219B2F0E3E61EC53BA388DC2403B71"
+    }
+]

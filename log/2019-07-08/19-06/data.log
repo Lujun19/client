@@ -1,0 +1,242 @@
+[
+    {
+        "logtime": "2019/07/08 19:06:21",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankOpen...\"]:194: attempt to call method 'dismissPopWait' (a nil value)\nstack traceback:\n\t[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:58: in function 'recvCallBack'\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:06:21",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:407: in function 'onSocketError'\n\t[string \".\\app/models/AppDF.lua\"]:452: in function <[string \".\\app/models/AppDF.lua\"]:415>"
+    },
+    {
+        "logtime": "2019/07/08 19:06:21",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:06:22",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankOpen...\"]:194: attempt to call method 'dismissPopWait' (a nil value)\nstack traceback:\n\t[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:58: in function 'recvCallBack'\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:06:22",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:06:23",
+        "logdata": "[string \".\\client/src/plaza/views/layer/plaza/BankOpen...\"]:194: attempt to call method 'dismissPopWait' (a nil value)\nstack traceback:\n\t[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:58: in function 'recvCallBack'\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:06:23",
+        "logdata": "[string \".\\client/src/view/mediator/BankOpenMediator.lua\"]:85: attempt to call method 'emit' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:444: in function <[string \".\\app/models/AppDF.lua\"]:441>"
+    },
+    {
+        "logtime": "2019/07/08 19:06:26",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/08 19:06:26",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/08 19:06:26",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:06:26",
+        "logdata": "http://www.fuannainc.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/08 19:06:26",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/08 19:06:29",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/08 19:06:29",
+        "logdata": "http://www.fuannainc.top/"
+    },
+    {
+        "logtime": "2019/07/08 19:06:29",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:06:29",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/08 19:06:29",
+        "logdata": "action=GetMobileShareConfig&userid=119943&time=1562583989&signature=28480C1DAF7DE3467A33E5BE62F1154C"
+    },
+    {
+        "logtime": "2019/07/08 19:06:30",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/08 19:06:30",
+        "logdata": "http://www.fuannainc.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/08 19:06:30",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/07/08 19:06:46",
+        "logdata": "string"
+    }
+]

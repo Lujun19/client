@@ -1,0 +1,41 @@
+[
+    {
+        "logtime": "2019/07/02 19:45:20",
+        "logdata": "[string \".\\game/xiuxian/shuiguolaba/src/views/GameLaye...\"]:860: attempt to index local 'useritem' (a nil value)\nstack traceback:\n\t[string \".\\game/xiuxian/shuiguolaba/src/views/GameLaye...\"]:579: in function 'onGameStart'\n\t[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:980: in function 'onButtonClickedEvent'\n\t[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:176: in function <[string \".\\game/xiuxian/shuiguolaba/src/views/layer/Ga...\"]:167>"
+    },
+    {
+        "logtime": "2019/07/02 19:45:20",
+        "logdata": [
+            {
+                "main": 100,
+                "kindid": 406,
+                "len": 0,
+                "sub": 2
+            },
+            {
+                "main": 100,
+                "kindid": 406,
+                "len": 9,
+                "sub": 1
+            },
+            {
+                "main": 200,
+                "kindid": 406,
+                "len": 16,
+                "sub": 6
+            },
+            {
+                "main": 1,
+                "kindid": 406,
+                "len": 213,
+                "sub": 2
+            },
+            {
+                "main": 3,
+                "kindid": 406,
+                "len": 4,
+                "sub": 11
+            }
+        ]
+    }
+]

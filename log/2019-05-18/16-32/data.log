@@ -1,0 +1,46 @@
+[
+    {
+        "logtime": "2019/05/18 16:32:01",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/18 16:32:01",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/18 16:32:01",
+        "logdata": {
+            "_ServerResVersion": 1,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/runfasthn/",
+            "_KindID": "601",
+            "_Type": "yule",
+            "_KindName": "yule.runfasthn.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/05/18 16:32:03",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/05/18 16:32:03",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/05/18 16:32:03",
+        "logdata": {
+            "_ServerResVersion": 1,
+            "_Active": false,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/thirteenx/",
+            "_KindID": "49",
+            "_Type": "qipai",
+            "_KindName": "qipai.thirteenx.",
+            "_SortId": 1
+        }
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "logtime": "2019/07/24 14:36:28",
+        "logdata": "ASSERT FAILED ON LUA EXECUTE: textureData can't be empty!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:117: in function 'execute'\n\t[string \".\\framework/puremvc/core/Controller.lua\"]:123: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\framework/puremvc/patterns/observer/Notifie...\"]:64: in function 'sendNotification'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:216: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:898: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/24 14:36:32",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/24 14:36:32",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 14:36:32",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:36:32",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/24 14:36:32",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/24 14:36:34",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/24 14:36:34",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/24 14:36:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/24 14:36:34",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/24 14:36:34",
+        "logdata": "action=GetMobileShareConfig&userid=119896&time=1563950194&signature=C3EE12D898FD75074FC461F2A258A1A2"
+    },
+    {
+        "logtime": "2019/07/24 14:36:56",
+        "logdata": "ASSERT FAILED ON LUA EXECUTE: textureData can't be empty!\nstack traceback:\n\t[string \".\\client/src/controller/command/LoadViewComma...\"]:117: in function 'execute'\n\t[string \".\\framework/puremvc/core/Controller.lua\"]:123: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\framework/puremvc/patterns/observer/Notifie...\"]:64: in function 'sendNotification'\n\t[string \".\\client/src/view/mediator/ViewMediator.lua\"]:216: in function 'notify'\n\t[string \".\\framework/puremvc/patterns/observer/Observe...\"]:85: in function 'notifyObserver'\n\t[string \".\\framework/puremvc/core/View.lua\"]:113: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:331: in function 'notifyObservers'\n\t[string \".\\framework/puremvc/patterns/facade/Facade.lua\"]:314: in function 'sendNotification'\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:898: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    }
+]

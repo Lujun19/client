@@ -1,0 +1,107 @@
+[
+    {
+        "logtime": "2019/07/19 10:58:49",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/19 10:58:49",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/19 10:58:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/19 10:58:49",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/19 10:58:49",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/19 10:58:51",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/19 10:58:51",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/19 10:58:51",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/19 10:58:51",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/19 10:58:51",
+        "logdata": "action=GetMobileShareConfig&userid=119897&time=1563505131&signature=7F0A20F4B746572EB9C1A5FAA0E37066"
+    },
+    {
+        "logtime": "2019/07/19 10:58:52",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/19 10:58:52",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/19 10:58:52",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/19 10:58:58",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/19 10:58:58",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/19 10:58:58",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowxz/",
+            "_KindID": "302",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowxz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/07/19 10:58:58",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/19 10:58:58",
+        "logdata": 302
+    },
+    {
+        "logtime": "2019/07/19 10:58:59",
+        "logdata": {
+            "_ServerResVersion": 3,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowxz/",
+            "_KindID": "302",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowxz.",
+            "nEnterRoomIndex": 1,
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/07/19 10:58:59",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/07/19 10:58:59",
+        "logdata": "yule/sparrowxz/"
+    }
+]
