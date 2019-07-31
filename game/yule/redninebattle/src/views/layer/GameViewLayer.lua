@@ -1764,7 +1764,7 @@ end
 function GameViewLayer:OnUpdataClockView(chair, time)
     local selfchair = self:getParent():GetMeChairID()
     local temp = self.m_timeLayout:getChildByName("txt_time")
-    temp:setString(string.format("%02d", time))
+    temp:setString(string.format("%d", time))
 
     if chair == self:getParentNode():SwitchViewChairID(selfchair) then
 		if self.m_ControlLayer ~= nil and self.m_bIsGameCheatUser == true then
@@ -1803,7 +1803,7 @@ function GameViewLayer:OnUpdataClockView(chair, time)
 			self.m_sicebg2:stopAllActions()
 			self.m_sicebg1:setVisible(false)
 			self.m_sicebg2:setVisible(false)
-        elseif time == self.m_cbTimeLeave-15  then
+        elseif time == self.m_cbTimeLeave-13  then
             --显示点数
             self:showCard(true)
         elseif time == self.m_cbTimeLeave-18 then

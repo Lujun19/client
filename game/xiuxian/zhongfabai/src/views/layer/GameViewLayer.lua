@@ -1716,7 +1716,7 @@ function GameViewLayer:onGetUserBet( )
 		--筹码飞行动画
 		local act = self:getBetAnimation(self:getBetRandomPos(btn,area), cc.CallFunc:create(function()
 			--播放下注声音
-			ExternalFun.playSoundEffect("dragon_bet.wav")
+			ExternalFun.playSoundEffect("coinCollide.wav")
 		end))
 		sp:stopAllActions()
 		sp:runAction(act)
@@ -2570,7 +2570,7 @@ function GameViewLayer:showTimerTip(tag)
 end
 ------
 
-------
+-----
 --下注节点
 function GameViewLayer:createJettonNode()
 	local jettonNode = cc.Node:create()
