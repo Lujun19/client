@@ -1,0 +1,84 @@
+[
+    {
+        "logtime": "2019/07/30 17:15:42",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/30 17:15:42",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:15:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:15:42",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:15:42",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:15:44",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/30 17:15:44",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:15:44",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:15:44",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 17:15:44",
+        "logdata": "action=GetMobileShareConfig&userid=119814&time=1564478144&signature=B88FF7845003BD0F164F48D94A3B7ADD"
+    },
+    {
+        "logtime": "2019/07/30 17:15:46",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:15:46",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:15:46",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:15:55",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/30 17:15:55",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/30 17:15:55",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/30 17:15:55",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/30 17:15:55",
+        "logdata": 202
+    }
+]

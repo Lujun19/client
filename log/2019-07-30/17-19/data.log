@@ -1,0 +1,166 @@
+[
+    {
+        "logtime": "2019/07/30 17:19:09",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/30 17:19:09",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:19:10",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:19:10",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:19:10",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:19:11",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/30 17:19:11",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:19:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:19:11",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 17:19:11",
+        "logdata": "action=GetMobileShareConfig&userid=119940&time=1564478351&signature=3629C5B327E7EA4CC088B11CD35A2471"
+    },
+    {
+        "logtime": "2019/07/30 17:19:13",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:19:13",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:19:13",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:19:16",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/30 17:19:16",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/30 17:19:16",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/30 17:19:16",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/30 17:19:16",
+        "logdata": 202
+    },
+    {
+        "logtime": "2019/07/30 17:19:39",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/30 17:19:39",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:19:39",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:19:39",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:19:39",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:19:42",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/30 17:19:42",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:19:42",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:19:42",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 17:19:42",
+        "logdata": "action=GetMobileShareConfig&userid=119923&time=1564478382&signature=510AB0D62534E4CE9E7EBF420371F071"
+    },
+    {
+        "logtime": "2019/07/30 17:19:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:19:43",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:19:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:19:45",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/07/30 17:19:45",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/30 17:19:45",
+        "logdata": {
+            "_ServerResVersion": 11,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/30 17:19:46",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/30 17:19:46",
+        "logdata": 202
+    }
+]

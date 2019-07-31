@@ -1,0 +1,148 @@
+[
+    {
+        "logtime": "2019/07/30 17:28:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:28:43",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 17:28:43",
+        "logdata": "action=GetScoreInfo&userid=119891&time=1564478923&signature=8E2CC8BF3A8880B91D7AB8013042B7C4"
+    },
+    {
+        "logtime": "2019/07/30 17:28:43",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:28:43",
+        "logdata": "http://154.48.228.19/download/test//game/xiuxian/zhongfabai/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/07/30 17:28:43",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:28:44",
+        "logdata": 12
+    },
+    {
+        "logtime": "2019/07/30 17:28:44",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/30 17:28:44",
+        "logdata": {
+            "_ServerResVersion": 12,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/07/30 17:28:44",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/30 17:28:44",
+        "logdata": 202
+    },
+    {
+        "logtime": "2019/07/30 17:28:47",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:28:47",
+        "logdata": "http://154.48.228.19/download/test//game/yule/redninebattle/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/07/30 17:28:47",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:28:49",
+        "logdata": "[string \".\\client/src/app/controllers/ClientUpdate.lua\"]:71: attempt to concatenate local 'oldpath' (a userdata value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/30 17:28:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:28:49",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 17:28:49",
+        "logdata": "action=getpaylist"
+    },
+    {
+        "logtime": "2019/07/30 17:28:51",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:28:51",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 17:28:51",
+        "logdata": "action=getagentpay"
+    },
+    {
+        "logtime": "2019/07/30 17:28:54",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/30 17:28:54",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:28:54",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:28:54",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:28:54",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:28:57",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/30 17:28:57",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:28:57",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:28:57",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 17:28:57",
+        "logdata": "action=GetMobileShareConfig&userid=119923&time=1564478937&signature=95F728750C12BB00FA399A96E8744CF9"
+    },
+    {
+        "logtime": "2019/07/30 17:28:59",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:28:59",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:28:59",
+        "logdata": ""
+    }
+]

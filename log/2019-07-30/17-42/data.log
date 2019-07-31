@@ -1,0 +1,50 @@
+[
+    {
+        "logtime": "2019/07/30 17:42:01",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/30 17:42:01",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:42:01",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:42:01",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 17:42:01",
+        "logdata": "action=GetMobileShareConfig&userid=119906&time=1564479721&signature=3E5A00365F5D1B25BC8B170D605ABD14"
+    },
+    {
+        "logtime": "2019/07/30 17:42:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:42:03",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:42:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:42:05",
+        "logdata": 6
+    },
+    {
+        "logtime": "2019/07/30 17:42:05",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:42:05",
+        "logdata": "http://154.48.228.19/download/test//game/yule/redninebattle/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/07/30 17:42:05",
+        "logdata": ""
+    }
+]

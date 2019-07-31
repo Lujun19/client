@@ -1,0 +1,86 @@
+[
+    {
+        "logtime": "2019/07/30 17:41:49",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:41:49",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:41:49",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:41:50",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/07/30 17:41:50",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:41:50",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:41:50",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/07/30 17:41:50",
+        "logdata": "action=GetMobileShareConfig&userid=119928&time=1564479710&signature=9CFD46905DCF8B0DC52EF02CCEF08DC1"
+    },
+    {
+        "logtime": "2019/07/30 17:41:51",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:41:51",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:41:51",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:41:53",
+        "logdata": 6
+    },
+    {
+        "logtime": "2019/07/30 17:41:53",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:41:53",
+        "logdata": "http://154.48.228.19/download/test//game/yule/redninebattle/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/07/30 17:41:53",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/07/30 17:41:54",
+        "logdata": "[string \".\\client/src/app/controllers/ClientUpdate.lua\"]:71: attempt to concatenate local 'oldpath' (a userdata value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/07/30 17:41:58",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/07/30 17:41:58",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/07/30 17:41:59",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 17:41:59",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/07/30 17:41:59",
+        "logdata": ""
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "logtime": "2019/07/30 18:14:01",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/07/30 18:14:01",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/07/30 18:14:01",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "_KindName": "yule.oxsixex.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/07/30 18:14:01",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/07/30 18:14:01",
+        "logdata": 36
+    },
+    {
+        "logtime": "2019/07/30 18:14:04",
+        "logdata": 6
+    },
+    {
+        "logtime": "2019/07/30 18:14:04",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/07/30 18:14:04",
+        "logdata": "http://154.48.228.19/download/test//game/yule/redninebattle/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/07/30 18:14:04",
+        "logdata": ""
+    }
+]

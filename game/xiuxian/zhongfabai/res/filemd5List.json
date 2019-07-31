@@ -214,6 +214,7 @@
 {"path": "zhongfabai/res/setting/", "name": "SettingLayer.csb", "md5": "3d9775dd3918f923dd581c2bdb57cc10"}, 
 {"path": "zhongfabai/res/sound_res/", "name": "chip_fly.wav", "md5": "00a18dd691f407460e0a56c8e9e63a67"}, 
 {"path": "zhongfabai/res/sound_res/", "name": "Click.wav", "md5": "ced92613990690a81051a46c43a69659"}, 
+{"path": "zhongfabai/res/sound_res/", "name": "coinCollide.wav", "md5": "73c2f928be820b211c83df31eaed8ac0"}, 
 {"path": "zhongfabai/res/sound_res/", "name": "dragon_bet.wav", "md5": "2b91318ce0f788222b0376ad35b505e4"}, 
 {"path": "zhongfabai/res/sound_res/", "name": "dragon_bg.mp3", "md5": "dd6f6d80ae99b655369a4909c7381bfe"}, 
 {"path": "zhongfabai/res/sound_res/", "name": "dragon_flip_card.mp3", "md5": "f773833831d4ff73a7feb5e31ddc5258"}, 
@@ -248,11 +249,11 @@
 {"path": "zhongfabai/src/views/layer/", "name": "GameRecordLayer.luac", "md5": "b15ca19bb4d9823e287a7d8942df7a67"}, 
 {"path": "zhongfabai/src/views/layer/", "name": "GameResultLayer.luac", "md5": "e5a64ed7b04f8a3ba70f7accc7244bc9"}, 
 {"path": "zhongfabai/src/views/layer/", "name": "GameRuleLayer.luac", "md5": "c6ac7e35c0df2698098865c55c80bdc9"}, 
-{"path": "zhongfabai/src/views/layer/", "name": "GameViewLayer.luac", "md5": "b430893f6473babc1886593808c85a98"}, 
+{"path": "zhongfabai/src/views/layer/", "name": "GameViewLayer.luac", "md5": "eda6c0f1a4383609cefbfad27209f01a"}, 
 {"path": "zhongfabai/src/views/layer/", "name": "SettingLayer.luac", "md5": "99afb2083f76b4fbdcc0d47bff109649"}, 
 {"path": "zhongfabai/src/views/layer/", "name": "SitRoleNode.luac", "md5": "c9dfe40013b8eab96ba28d3025ed597a"}, 
 {"path": "zhongfabai/src/views/layer/userlist/", "name": "ApplyListLayer.luac", "md5": "771750668562ce816714539374064926"}, 
 {"path": "zhongfabai/src/views/layer/userlist/", "name": "UserItem.luac", "md5": "f7e8f6433e8482d3d942c50d024d2c63"}, 
 {"path": "zhongfabai/src/views/layer/userlist/", "name": "UserListLayer.luac", "md5": "3474780df799cdd3bff5c32335ebc5f9"}, 
 {"path": "zhongfabai/src/views/layer/", "name": "WallBillLayer.luac", "md5": "f574c4cae1a9b1b173857000b748409b"}, 
-{"allcount": 257}]}
+{"allcount": 258}]}
