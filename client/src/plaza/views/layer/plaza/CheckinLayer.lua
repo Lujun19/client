@@ -324,11 +324,6 @@ function CheckinLayer:ctor(scene)
 		end
 
 
-
-
-
-
-
 	end
 	--VIP礼包按钮
 	self._btVIPGift = ccui.Button:create("Checkin/bt_checkin_vip_1.png","Checkin/bt_checkin_vip_1.png")

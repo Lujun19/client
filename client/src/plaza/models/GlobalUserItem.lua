@@ -89,7 +89,7 @@ function GlobalUserItem.reSetData()
 
 	GlobalUserItem.wSeriesDate								= 0 		--连续日期
 	GlobalUserItem.bTodayChecked							= false 	--今日签到
-	GlobalUserItem.lRewardGold 								= {0,0,0,0,0,0,0}		--金币数目
+	GlobalUserItem.lRewardGold 								= {0,0,0,0,0,0,0}--金币数目
 	GlobalUserItem.useItem 									= nil
 
 	GlobalUserItem.szThirdPartyUrl							= ""		--第三方头像url
