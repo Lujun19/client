@@ -1,0 +1,38 @@
+[
+    {
+        "logtime": "2019/08/01 11:49:11",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/01 11:49:11",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/08/01 11:49:11",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/01 11:49:14",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/08/01 11:49:14",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/01 11:49:14",
+        "logdata": "http://154.48.228.19/download/test//game/qipai/landnoshuffle/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/08/01 11:49:14",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/01 11:49:21",
+        "logdata": "[string \".\\client/src/plaza/views/LogonScene.lua\"]:870: attempt to index field '_logonFrame' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/08/01 11:49:21",
+        "logdata": "[string \".\\cocos/init.lua\"]:42: attempt to call global 'buglyReportLuaException' (a nil value)\nstack traceback:\n\t[string \".\\client/src/plaza/views/LogonScene.lua\"]:870: in function 'callback'\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    }
+]

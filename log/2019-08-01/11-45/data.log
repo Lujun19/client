@@ -1,0 +1,30 @@
+[
+    {
+        "logtime": "2019/08/01 11:45:02",
+        "logdata": "[string \".\\client/src/plaza/views/LogonScene.lua\"]:870: attempt to index field '_logonFrame' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/08/01 11:45:02",
+        "logdata": "[string \".\\client/src/plaza/views/LogonScene.lua\"]:870: attempt to index field '_logonFrame' (a nil value)\nstack traceback:\n\t[string \".\\app/models/AppDF.lua\"]:344: in function <[string \".\\app/models/AppDF.lua\"]:324>"
+    },
+    {
+        "logtime": "2019/08/01 11:45:03",
+        "logdata": 11
+    },
+    {
+        "logtime": "2019/08/01 11:45:03",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/01 11:45:03",
+        "logdata": "http://154.48.228.19/download/test//game/qipai/landnoshuffle/res/filemd5List.json"
+    },
+    {
+        "logtime": "2019/08/01 11:45:03",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/01 11:45:15",
+        "logdata": 4
+    }
+]

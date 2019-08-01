@@ -1,0 +1,273 @@
+[
+    {
+        "logtime": "2019/08/01 12:04:28",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/01 12:04:28",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/08/01 12:04:28",
+        "logdata": "action=GetScoreInfo&userid=119901&time=1564632268&signature=AE555C49926F544D7AC7D8FEF5B4AFE3"
+    },
+    {
+        "logtime": "2019/08/01 12:04:31",
+        "logdata": 12
+    },
+    {
+        "logtime": "2019/08/01 12:04:31",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/08/01 12:04:31",
+        "logdata": {
+            "_ServerResVersion": 12,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "_KindName": "qipai.landnoshuffle.",
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/08/01 12:04:31",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/08/01 12:04:31",
+        "logdata": 202
+    },
+    {
+        "logtime": "2019/08/01 12:04:34",
+        "logdata": {
+            "_ServerResVersion": 12,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "qipai/landnoshuffle/",
+            "_KindID": "202",
+            "_Type": "qipai",
+            "nSitChair": 65535,
+            "_KindName": "qipai.landnoshuffle.",
+            "nEnterRoomIndex": 1,
+            "nSitTable": 65535,
+            "_SortId": 7
+        }
+    },
+    {
+        "logtime": "2019/08/01 12:04:34",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/08/01 12:04:34",
+        "logdata": "qipai/landnoshuffle/"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "double"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "word"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/01 12:04:35",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/01 12:04:51",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/08/01 12:04:51",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/08/01 12:04:51",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/01 12:04:51",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/08/01 12:04:51",
+        "logdata": ""
+    }
+]

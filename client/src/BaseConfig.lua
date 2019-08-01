@@ -1,4 +1,4 @@
-﻿BaseConfig = BaseConfig or {}
+BaseConfig = BaseConfig or {}
 --官网（资源服务器 + 网站）
 --正式服
 BaseConfig.WEB_HTTP_URL = "http://www.fuannabbs.top/"
@@ -21,7 +21,7 @@ BaseConfig.BASE_C_BINVERSION = 2
 --程序版本
 BaseConfig.BASE_C_VERSION = 6 --@app_version
 --资源版本
-BaseConfig.BASE_C_RESVERSION = 109 --@client_version211
+BaseConfig.BASE_C_RESVERSION = 108 --@client_version211
 
 -- com.moxie.yletong
 -- org.haotan.psdqp
