@@ -9,9 +9,9 @@ local cmd = appdf.req(appdf.GAME_SRC.."yule.sparrowxz.src.models.CMD_Game")
 
 --桌面麻将布局参数  布局格式  自己为1  右边为2 左边为3 对面为4
 --手牌
-local posHandCard = {cc.p(62, 74), cc.p(1180, 220), cc.p(200, 650), cc.p(1000, 665)}
+local posHandCard = {cc.p(62, 74), cc.p(1280, 220), cc.p(200, 650), cc.p(1000, 665)}
 local anchorPointHandCard = {cc.p(0, 0), cc.p(0, 0), cc.p(1, 0), cc.p(0, 1)} --方向
-local pramHandCard = {{88, 136, 88, 0}, {28, 75, 0, 31}, {28, 75, 0, -31},{43, 68, -43, 0}} --宽 高 x方向偏移量 y方向偏移量
+local pramHandCard = {{88, 136, 88, 0}, {28, 75, -10, 31}, {28, 75, -10, -31},{43, 68, -43, 0}} --宽 高 x方向偏移量 y方向偏移量
 local zorderCard = {1, -1, 1, -1}
 
 --出牌
@@ -23,7 +23,7 @@ local numPerLine = 10    --打出的牌，每行多少个
 --碰牌，杠牌
 local posActiveCard = {cc.p(1285, 62), cc.p(1180, 680), cc.p(200, 150), cc.p(340, 665)}
 local anchorPointActiveCard = {{-1, 0}, {0, -1}, {0, 1}, {1, 0}}--方向
-local pramActiveCard = {{44, 67, -44, 0}, {55, 47, 0, -32}, {55, 47, 0, 32},{44, 67, 44, 0}} --宽 高 x方向偏移量 y方向偏移量
+local pramActiveCard = {{44, 67, -44, 0}, {55, 47, -10, -32}, {55, 47, -10, 32},{44, 67, 44, 0}} --宽 高 x方向偏移量 y方向偏移量
 local offsetPer = 10  --每个碰杠牌之间间隔
 
 --local cbCardData = {1, 5, 7, 6, 34, 12, 32, 25, 18, 19, 27, 22, 33, 33}
@@ -764,7 +764,8 @@ function CardLayer:createOutCard(viewid, cbCardData, cbCardCount)
 			offsetX = math.mod(numOutCard, numPerLine)
 			offsetY = math.floor(numOutCard/numPerLine)
 		elseif cmd.LEFT_VIEWID == viewid or cmd.RIGHT_VIEWID == viewid then
-			offsetX = math.floor(numOutCard/numPerLine)
+			-- offsetX = math.floor(numOutCard/numPerLine)
+			offsetX = numOutCard
 			offsetY = math.mod(numOutCard, numPerLine)
 		end
 		print("viewid: ",viewid)

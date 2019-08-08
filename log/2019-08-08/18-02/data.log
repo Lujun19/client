@@ -1,0 +1,120 @@
+[
+    {
+        "logtime": "2019/08/08 18:02:13",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/08/08 18:02:13",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/08/08 18:02:13",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 18:02:13",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/08/08 18:02:13",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/08 18:02:15",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/08/08 18:02:15",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/08/08 18:02:15",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 18:02:15",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/08/08 18:02:15",
+        "logdata": "action=GetMobileShareConfig&userid=119905&time=1565258535&signature=F66402F7EF63120BEFE61BC9FE6E5B6D"
+    },
+    {
+        "logtime": "2019/08/08 18:02:16",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 18:02:16",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/08/08 18:02:16",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/08 18:02:20",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/08/08 18:02:20",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/08/08 18:02:20",
+        "logdata": {
+            "_ServerResVersion": 46,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 2,
+            "_Module": "yule/sparrowxz/",
+            "_KindID": "302",
+            "_Type": "yule",
+            "_KindName": "yule.sparrowxz.",
+            "_SortId": 1
+        }
+    },
+    {
+        "logtime": "2019/08/08 18:02:20",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/08/08 18:02:20",
+        "logdata": 302
+    },
+    {
+        "logtime": "2019/08/08 18:02:21",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 18:02:21",
+        "logdata": "int"
+    },
+    {
+        "logtime": "2019/08/08 18:02:21",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 18:02:21",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/08/08 18:02:26",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/08/08 18:02:26",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/08/08 18:02:26",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 18:02:26",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/08/08 18:02:26",
+        "logdata": ""
+    }
+]

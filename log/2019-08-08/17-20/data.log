@@ -1,0 +1,416 @@
+[
+    {
+        "logtime": "2019/08/08 17:20:00",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 17:20:00",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/08/08 17:20:00",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/08 17:20:02",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/kpnew/",
+            "_KindID": "28",
+            "_Type": "yule",
+            "_KindName": "yule.kpnew.",
+            "nEnterRoomIndex": 2,
+            "_SortId": 6
+        }
+    },
+    {
+        "logtime": "2019/08/08 17:20:02",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/08/08 17:20:02",
+        "logdata": "yule/kpnew/"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:03",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/08 17:20:15",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/08/08 17:20:15",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/08/08 17:20:15",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 17:20:15",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/08/08 17:20:15",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/08 17:20:20",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/08/08 17:20:20",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/08/08 17:20:20",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 17:20:20",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/08/08 17:20:20",
+        "logdata": "action=GetMobileShareConfig&userid=119917&time=1565256020&signature=A7C67EB85F31501698A0897560D6DB9B"
+    },
+    {
+        "logtime": "2019/08/08 17:20:22",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 17:20:22",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/08/08 17:20:22",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/08 17:20:24",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/08/08 17:20:24",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/08/08 17:20:24",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "_KindName": "yule.oxsixex.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/08/08 17:20:24",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/08/08 17:20:24",
+        "logdata": 36
+    },
+    {
+        "logtime": "2019/08/08 17:20:34",
+        "logdata": "LogonScene.onceExcute"
+    },
+    {
+        "logtime": "2019/08/08 17:20:34",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/08/08 17:20:34",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 17:20:34",
+        "logdata": "http://www.fuannabbs.top//ws/MobileInterface.ashx?action=GetMobileLoginNotice"
+    },
+    {
+        "logtime": "2019/08/08 17:20:34",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/08 17:20:35",
+        "logdata": "onLogonCallBack"
+    },
+    {
+        "logtime": "2019/08/08 17:20:35",
+        "logdata": "http://www.fuannabbs.top/"
+    },
+    {
+        "logtime": "2019/08/08 17:20:35",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 17:20:35",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx"
+    },
+    {
+        "logtime": "2019/08/08 17:20:35",
+        "logdata": "action=GetMobileShareConfig&userid=119802&time=1565256035&signature=B5B72F0F98648C1859B0BC2FA83589C2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:37",
+        "logdata": "url"
+    },
+    {
+        "logtime": "2019/08/08 17:20:37",
+        "logdata": "http://www.fuannabbs.top//WS/MobileInterface.ashx?action=GetMobileRollNotice"
+    },
+    {
+        "logtime": "2019/08/08 17:20:37",
+        "logdata": ""
+    },
+    {
+        "logtime": "2019/08/08 17:20:39",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/08/08 17:20:39",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/08/08 17:20:39",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "_KindName": "yule.oxsixex.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/08/08 17:20:39",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/08/08 17:20:39",
+        "logdata": 36
+    },
+    {
+        "logtime": "2019/08/08 17:20:47",
+        "logdata": null
+    },
+    {
+        "logtime": "2019/08/08 17:20:47",
+        "logdata": "onEnterGame"
+    },
+    {
+        "logtime": "2019/08/08 17:20:47",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "_KindName": "yule.oxsixex.",
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/08/08 17:20:47",
+        "logdata": "GlobalUserItem.getCurGameKind()"
+    },
+    {
+        "logtime": "2019/08/08 17:20:47",
+        "logdata": 36
+    },
+    {
+        "logtime": "2019/08/08 17:20:49",
+        "logdata": {
+            "_ServerResVersion": 5,
+            "_Active": true,
+            "_KindVersion": "101122049",
+            "_KindType": 1,
+            "_Module": "yule/oxsixex/",
+            "_KindID": "36",
+            "_Type": "yule",
+            "nSitChair": 65535,
+            "_KindName": "yule.oxsixex.",
+            "nEnterRoomIndex": 2,
+            "nSitTable": 65535,
+            "_SortId": 8
+        }
+    },
+    {
+        "logtime": "2019/08/08 17:20:49",
+        "logdata": "modulestr"
+    },
+    {
+        "logtime": "2019/08/08 17:20:49",
+        "logdata": "yule/oxsixex/"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "dword"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "score"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "string"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "byte"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "keys2"
+    },
+    {
+        "logtime": "2019/08/08 17:20:50",
+        "logdata": "byte"
+    }
+]
